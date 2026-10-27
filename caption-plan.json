@@ -1,0 +1,2663 @@
+{
+  "schemaVersion": "1.0",
+  "defaultVisible": true,
+  "placement": "canvas",
+  "fps": 30,
+  "cues": [
+    {
+      "id": "full-narration-v4-caption-0",
+      "nodeId": "filing",
+      "shotId": "user-opening",
+      "text": "声明：本视频完全没有使用A畜的产品制作。大家好！",
+      "startFrame": 3,
+      "endFrame": 150,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c1",
+        "run-0-c2",
+        "run-0-c3",
+        "run-0-c4"
+      ],
+      "observedRange": {
+        "startFrame": 3,
+        "endFrame": 143
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-1",
+      "nodeId": "filing",
+      "shotId": "user-opening",
+      "text": "A畜终于提交上市申请了，",
+      "startFrame": 150,
+      "endFrame": 215,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c5"
+      ],
+      "observedRange": {
+        "startFrame": 150,
+        "endFrame": 203
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-2",
+      "nodeId": "filing",
+      "shotId": "user-opening",
+      "text": "我整理了10条相关的关键信息，",
+      "startFrame": 215,
+      "endFrame": 286,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c6",
+        "run-0-c7"
+      ],
+      "observedRange": {
+        "startFrame": 215,
+        "endFrame": 278
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-3",
+      "nodeId": "filing",
+      "shotId": "user-opening",
+      "text": "以方便你有理有据地骂A畜",
+      "startFrame": 286,
+      "endFrame": 377,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c8",
+        "run-0-c9"
+      ],
+      "observedRange": {
+        "startFrame": 286,
+        "endFrame": 363
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-4",
+      "nodeId": "filing",
+      "shotId": "section-01",
+      "text": "第 1 节：上市申请。",
+      "startFrame": 377,
+      "endFrame": 443,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c10",
+        "run-0-c11"
+      ],
+      "observedRange": {
+        "startFrame": 377,
+        "endFrame": 421
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-5",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "2026 年 10 月，",
+      "startFrame": 443,
+      "endFrame": 483,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c12"
+      ],
+      "observedRange": {
+        "startFrame": 443,
+        "endFrame": 466
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-6",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "Anthropic 提交上市申请，",
+      "startFrame": 483,
+      "endFrame": 542,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c13"
+      ],
+      "observedRange": {
+        "startFrame": 483,
+        "endFrame": 531
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-7",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "计划在纳斯达克用 ANT 代码挂牌。",
+      "startFrame": 542,
+      "endFrame": 632,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c14"
+      ],
+      "observedRange": {
+        "startFrame": 542,
+        "endFrame": 617
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-8",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "对普通用户来说，这意味着这家做 Claude 的公司，",
+      "startFrame": 632,
+      "endFrame": 720,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c15",
+        "run-0-c16",
+        "run-0-c17"
+      ],
+      "observedRange": {
+        "startFrame": 632,
+        "endFrame": 720
+      }
+    },
+    {
+      "id": "full-narration-v4-caption-9",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "要把更多经营细节摆到台面上了。",
+      "startFrame": 720,
+      "endFrame": 810,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c18"
+      ],
+      "observedRange": {
+        "startFrame": 720,
+        "endFrame": 806
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-10",
+      "nodeId": "filing",
+      "shotId": "ipo-intro",
+      "text": "看看它一边怎么讲安全，一边怎么做生意。",
+      "startFrame": 810,
+      "endFrame": 902,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c19",
+        "run-0-c20"
+      ],
+      "observedRange": {
+        "startFrame": 810,
+        "endFrame": 889
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-11",
+      "nodeId": "filing",
+      "shotId": "policy-critique",
+      "text": "比如创始人 Dario 公开主张限制向中国出售先进芯片。",
+      "startFrame": 902,
+      "endFrame": 1059,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c21-p1",
+        "run-0-c21-p2"
+      ],
+      "observedRange": {
+        "startFrame": 902,
+        "endFrame": 1037
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-12",
+      "nodeId": "filing",
+      "shotId": "policy-critique",
+      "text": "对中国用户来说，这关系到你能接触到什么技术。",
+      "startFrame": 1059,
+      "endFrame": 1179,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c22",
+        "run-0-c23"
+      ],
+      "observedRange": {
+        "startFrame": 1059,
+        "endFrame": 1162
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-13",
+      "nodeId": "filing",
+      "shotId": "policy-critique",
+      "text": "公司当然可以谈安全，但把安全和技术竞争放在一张桌上谈，",
+      "startFrame": 1179,
+      "endFrame": 1338,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c24",
+        "run-0-c25"
+      ],
+      "observedRange": {
+        "startFrame": 1179,
+        "endFrame": 1327
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-14",
+      "nodeId": "filing",
+      "shotId": "policy-critique",
+      "text": "就别指望大家只听见安全两个字。",
+      "startFrame": 1338,
+      "endFrame": 1432,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c26"
+      ],
+      "observedRange": {
+        "startFrame": 1338,
+        "endFrame": 1419
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-15",
+      "nodeId": "growth",
+      "shotId": "section-02",
+      "text": "第 2 节：收入与增长。",
+      "startFrame": 1432,
+      "endFrame": 1496,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c27",
+        "run-0-c28"
+      ],
+      "observedRange": {
+        "startFrame": 1432,
+        "endFrame": 1486
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-16",
+      "nodeId": "growth",
+      "shotId": "growth-annual",
+      "text": "先看它赚钱有多快。2023 年收入 4,100 万美元，",
+      "startFrame": 1496,
+      "endFrame": 1621,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c29",
+        "run-0-c30"
+      ],
+      "observedRange": {
+        "startFrame": 1496,
+        "endFrame": 1609
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-17",
+      "nodeId": "growth",
+      "shotId": "growth-annual",
+      "text": "2025 年到了 45.85 亿美元，",
+      "startFrame": 1621,
+      "endFrame": 1702,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c31"
+      ],
+      "observedRange": {
+        "startFrame": 1621,
+        "endFrame": 1684
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-18",
+      "nodeId": "growth",
+      "shotId": "growth-annual",
+      "text": "2026 年第二季度就有 115.55 亿美元。",
+      "startFrame": 1702,
+      "endFrame": 1802,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c32"
+      ],
+      "observedRange": {
+        "startFrame": 1702,
+        "endFrame": 1791
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-19",
+      "nodeId": "growth",
+      "shotId": "growth-annual",
+      "text": "你可能还在琢磨订阅值不值，",
+      "startFrame": 1802,
+      "endFrame": 1862,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c33"
+      ],
+      "observedRange": {
+        "startFrame": 1802,
+        "endFrame": 1851
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-20",
+      "nodeId": "growth",
+      "shotId": "growth-annual",
+      "text": "它那边的生意已经跑得飞快。",
+      "startFrame": 1862,
+      "endFrame": 1919,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c34",
+        "run-0-c35",
+        "run-0-c36"
+      ],
+      "observedRange": {
+        "startFrame": 1862,
+        "endFrame": 1908
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-21",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "赚钱快，花钱也猛。2026 年第二季度，",
+      "startFrame": 1919,
+      "endFrame": 2037,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c37",
+        "run-0-c38",
+        "run-0-c39"
+      ],
+      "observedRange": {
+        "startFrame": 1919,
+        "endFrame": 2027
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-22",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "算力和基础设施费用 55.58 亿美元，",
+      "startFrame": 2037,
+      "endFrame": 2148,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c40"
+      ],
+      "observedRange": {
+        "startFrame": 2037,
+        "endFrame": 2135
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-23",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "收入约是这笔费用的 2.08 倍，",
+      "startFrame": 2148,
+      "endFrame": 2236,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c41",
+        "run-0-c42",
+        "run-0-c43"
+      ],
+      "observedRange": {
+        "startFrame": 2148,
+        "endFrame": 2225
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-24",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "营业利润 9.74 亿美元。",
+      "startFrame": 2236,
+      "endFrame": 2316,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c44"
+      ],
+      "observedRange": {
+        "startFrame": 2236,
+        "endFrame": 2304
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-25",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "不过算力不是全部成本，不能把这个比例当利润率。对用户来说，",
+      "startFrame": 2316,
+      "endFrame": 2466,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c45",
+        "run-0-c46",
+        "run-0-c47"
+      ],
+      "observedRange": {
+        "startFrame": 2316,
+        "endFrame": 2457
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-26",
+      "nodeId": "growth",
+      "shotId": "growth-cost",
+      "text": "成本压力值得关注，但不能凭这组数字断言它一定涨价。",
+      "startFrame": 2466,
+      "endFrame": 2616,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c48",
+        "run-0-c49",
+        "run-0-c50"
+      ],
+      "observedRange": {
+        "startFrame": 2466,
+        "endFrame": 2607
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-27",
+      "nodeId": "loss",
+      "shotId": "section-03",
+      "text": "第 3 节：亏损与会计。",
+      "startFrame": 2616,
+      "endFrame": 2702,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c51",
+        "run-0-c52"
+      ],
+      "observedRange": {
+        "startFrame": 2616,
+        "endFrame": 2690
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-28",
+      "nodeId": "loss",
+      "shotId": "revenue-loss",
+      "text": "接下来的数字看着吓人：2026 年上半年净亏损 807.48 亿美元。",
+      "startFrame": 2702,
+      "endFrame": 2894,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c53",
+        "run-0-c54",
+        "run-0-c55"
+      ],
+      "observedRange": {
+        "startFrame": 2702,
+        "endFrame": 2882
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-29",
+      "nodeId": "loss",
+      "shotId": "revenue-loss",
+      "text": "其中大约 723.88 亿，",
+      "startFrame": 2894,
+      "endFrame": 2968,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c56-p1"
+      ],
+      "observedRange": {
+        "startFrame": 2894,
+        "endFrame": 2968
+      }
+    },
+    {
+      "id": "full-narration-v4-caption-30",
+      "nodeId": "loss",
+      "shotId": "revenue-loss",
+      "text": "是融资工具价值变动带来的会计费用。",
+      "startFrame": 2968,
+      "endFrame": 3077,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c56-p2",
+        "run-0-c57"
+      ],
+      "observedRange": {
+        "startFrame": 2968,
+        "endFrame": 3064
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-31",
+      "nodeId": "loss",
+      "shotId": "loss-context",
+      "text": "说人话，就是账上有一大笔变化，",
+      "startFrame": 3077,
+      "endFrame": 3179,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c58",
+        "run-0-c59"
+      ],
+      "observedRange": {
+        "startFrame": 3077,
+        "endFrame": 3166
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-32",
+      "nodeId": "loss",
+      "shotId": "loss-context",
+      "text": "不等于公司当天真拿现金付出这么多。",
+      "startFrame": 3179,
+      "endFrame": 3266,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c60",
+        "run-0-c61"
+      ],
+      "observedRange": {
+        "startFrame": 3179,
+        "endFrame": 3246
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-33",
+      "nodeId": "loss",
+      "shotId": "loss-context",
+      "text": "公司另披露调整后净利润 26.71 亿美元，口径不同，",
+      "startFrame": 3266,
+      "endFrame": 3426,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c62",
+        "run-0-c63"
+      ],
+      "observedRange": {
+        "startFrame": 3266,
+        "endFrame": 3419
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-34",
+      "nodeId": "loss",
+      "shotId": "loss-context",
+      "text": "别拿来直接相减。普通用户不用替它做会计，",
+      "startFrame": 3426,
+      "endFrame": 3534,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c64",
+        "run-0-c65"
+      ],
+      "observedRange": {
+        "startFrame": 3426,
+        "endFrame": 3524
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-35",
+      "nodeId": "loss",
+      "shotId": "loss-context",
+      "text": "但看到亏损天文数字，也不用立刻以为 Claude 明天就要关门。",
+      "startFrame": 3534,
+      "endFrame": 3669,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c66-p1",
+        "run-0-c66-p2"
+      ],
+      "observedRange": {
+        "startFrame": 3534,
+        "endFrame": 3653
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-36",
+      "nodeId": "copyright",
+      "shotId": "section-04",
+      "text": "第 4 节：Bartz 版权案。",
+      "startFrame": 3669,
+      "endFrame": 3751,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c67",
+        "run-0-c68"
+      ],
+      "observedRange": {
+        "startFrame": 3669,
+        "endFrame": 3738
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-37",
+      "nodeId": "copyright",
+      "shotId": "bartz-case",
+      "text": "如果你写文章、画画、出书，",
+      "startFrame": 3751,
+      "endFrame": 3849,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c69",
+        "run-0-c70",
+        "run-0-c71"
+      ],
+      "observedRange": {
+        "startFrame": 3751,
+        "endFrame": 3836
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-38",
+      "nodeId": "copyright",
+      "shotId": "bartz-case",
+      "text": "这一条尤其值得听。2024 年，",
+      "startFrame": 3849,
+      "endFrame": 3936,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c72",
+        "run-0-c73"
+      ],
+      "observedRange": {
+        "startFrame": 3849,
+        "endFrame": 3926
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-39",
+      "nodeId": "copyright",
+      "shotId": "bartz-case",
+      "text": "作家 Andrea Bartz 等人起诉 Anthropic，",
+      "startFrame": 3936,
+      "endFrame": 4059,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c74",
+        "run-0-c75"
+      ],
+      "observedRange": {
+        "startFrame": 3936,
+        "endFrame": 4049
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-40",
+      "nodeId": "copyright",
+      "shotId": "bartz-case",
+      "text": "争议涉及作品被用于训练。",
+      "startFrame": 4059,
+      "endFrame": 4130,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c76"
+      ],
+      "observedRange": {
+        "startFrame": 4059,
+        "endFrame": 4113
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-41",
+      "nodeId": "copyright",
+      "shotId": "bartz-case",
+      "text": "2026 年 7 月，法院最终批准了 15 亿美元的集体和解。",
+      "startFrame": 4130,
+      "endFrame": 4259,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c77",
+        "run-0-c78",
+        "run-0-c79"
+      ],
+      "observedRange": {
+        "startFrame": 4130,
+        "endFrame": 4243
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-42",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "Anthropic 曾从盗版来源下载书籍；",
+      "startFrame": 4259,
+      "endFrame": 4352,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c80"
+      ],
+      "observedRange": {
+        "startFrame": 4259,
+        "endFrame": 4340
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-43",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "另一边，它又指控竞争者未经许可蒸馏 Claude。",
+      "startFrame": 4352,
+      "endFrame": 4481,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c81"
+      ],
+      "observedRange": {
+        "startFrame": 4352,
+        "endFrame": 4467
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-44",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "两件事的法律问题不同，但作为创作者，",
+      "startFrame": 4481,
+      "endFrame": 4569,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c82",
+        "run-0-c83",
+        "run-0-c84"
+      ],
+      "observedRange": {
+        "startFrame": 4481,
+        "endFrame": 4564
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-45",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "你完全可以问一句：拿别人的作品训练时一套说法，",
+      "startFrame": 4569,
+      "endFrame": 4686,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c85",
+        "run-0-c86",
+        "run-0-c87"
+      ],
+      "observedRange": {
+        "startFrame": 4569,
+        "endFrame": 4677
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-46",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "轮到别人碰自己的模型又一套说法，",
+      "startFrame": 4686,
+      "endFrame": 4764,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c88",
+        "run-0-c89"
+      ],
+      "observedRange": {
+        "startFrame": 4686,
+        "endFrame": 4754
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-47",
+      "nodeId": "copyright",
+      "shotId": "copyright-critique",
+      "text": "这是不是太会替自己讲道理了？",
+      "startFrame": 4764,
+      "endFrame": 4844,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c90"
+      ],
+      "observedRange": {
+        "startFrame": 4764,
+        "endFrame": 4834
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-48",
+      "nodeId": "customers",
+      "shotId": "section-05",
+      "text": "第 5 节：客户与政策执行。",
+      "startFrame": 4844,
+      "endFrame": 4933,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c91",
+        "run-0-c92"
+      ],
+      "observedRange": {
+        "startFrame": 4844,
+        "endFrame": 4917
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-49",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "公司说，截至 2026 年 9 月底，",
+      "startFrame": 4933,
+      "endFrame": 5022,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c93",
+        "run-0-c94"
+      ],
+      "observedRange": {
+        "startFrame": 4933,
+        "endFrame": 5014
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-50",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "净收入留存率约 900%。通俗说，",
+      "startFrame": 5022,
+      "endFrame": 5132,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c95",
+        "run-0-c96"
+      ],
+      "observedRange": {
+        "startFrame": 5022,
+        "endFrame": 5121
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-51",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "符合它统计条件的老客户，",
+      "startFrame": 5132,
+      "endFrame": 5198,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c97",
+        "run-0-c98"
+      ],
+      "observedRange": {
+        "startFrame": 5132,
+        "endFrame": 5190
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-52",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "后来贡献的收入变成了原来的九倍左右。注意，",
+      "startFrame": 5198,
+      "endFrame": 5307,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c99",
+        "run-0-c100",
+        "run-0-c101",
+        "run-0-c102"
+      ],
+      "observedRange": {
+        "startFrame": 5198,
+        "endFrame": 5304
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-53",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "这不是说每个人的订阅都涨了九倍；",
+      "startFrame": 5307,
+      "endFrame": 5375,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c103",
+        "run-0-c104"
+      ],
+      "observedRange": {
+        "startFrame": 5307,
+        "endFrame": 5367
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-54",
+      "nodeId": "customers",
+      "shotId": "customers-retention",
+      "text": "固定价格的 Claude Pro 和 Max 不在这项统计里。",
+      "startFrame": 5375,
+      "endFrame": 5476,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c105",
+        "run-0-c106",
+        "run-0-c107"
+      ],
+      "observedRange": {
+        "startFrame": 5375,
+        "endFrame": 5466
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-55",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "公司估计，2026 年前九个月，",
+      "startFrame": 5476,
+      "endFrame": 5571,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c108",
+        "run-0-c109"
+      ],
+      "observedRange": {
+        "startFrame": 5476,
+        "endFrame": 5557
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-56",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "约 5% 到 7% 的收入来自后来被认定违反政策或商业条款的客户。公司说，",
+      "startFrame": 5571,
+      "endFrame": 5774,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c110",
+        "run-0-c111",
+        "run-0-c112",
+        "run-0-c113"
+      ],
+      "observedRange": {
+        "startFrame": 5571,
+        "endFrame": 5765
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-57",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "发现问题、调查到执行都需要时间，",
+      "startFrame": 5774,
+      "endFrame": 5880,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c114",
+        "run-0-c115"
+      ],
+      "observedRange": {
+        "startFrame": 5774,
+        "endFrame": 5863
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-58",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "所以是在提供服务时确认收入，",
+      "startFrame": 5880,
+      "endFrame": 5958,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c116"
+      ],
+      "observedRange": {
+        "startFrame": 5880,
+        "endFrame": 5948
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-59",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "随后才限制或终止访问。再看普通用户的退款：",
+      "startFrame": 5958,
+      "endFrame": 6087,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c117",
+        "run-0-c118",
+        "run-0-c119"
+      ],
+      "observedRange": {
+        "startFrame": 5958,
+        "endFrame": 6074
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-60",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "Claude 官方规则是，除条款明确规定或法律要求的情况，",
+      "startFrame": 6087,
+      "endFrame": 6218,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c120",
+        "run-0-c121"
+      ],
+      "observedRange": {
+        "startFrame": 6087,
+        "endFrame": 6207
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-61",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "付款原则上不退款。换成用户视角就是：",
+      "startFrame": 6218,
+      "endFrame": 6316,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c122",
+        "run-0-c123"
+      ],
+      "observedRange": {
+        "startFrame": 6218,
+        "endFrame": 6306
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-62",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "服务可能被停，想拿回钱还得看你符不符合例外。",
+      "startFrame": 6316,
+      "endFrame": 6446,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c124",
+        "run-0-c125"
+      ],
+      "observedRange": {
+        "startFrame": 6316,
+        "endFrame": 6427
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-63",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "安全的牌子挂得这么高，封号之后钱怎么算，",
+      "startFrame": 6446,
+      "endFrame": 6547,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c126",
+        "run-0-c127",
+        "run-0-c128",
+        "run-0-c129"
+      ],
+      "observedRange": {
+        "startFrame": 6446,
+        "endFrame": 6536
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-64",
+      "nodeId": "customers",
+      "shotId": "customers-policy",
+      "text": "总得给用户讲明白吧？",
+      "startFrame": 6547,
+      "endFrame": 6604,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c130"
+      ],
+      "observedRange": {
+        "startFrame": 6547,
+        "endFrame": 6594
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-65",
+      "nodeId": "compute",
+      "shotId": "section-06",
+      "text": "第 6 节：长期算力承诺。",
+      "startFrame": 6604,
+      "endFrame": 6686,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c131",
+        "run-0-c132"
+      ],
+      "observedRange": {
+        "startFrame": 6604,
+        "endFrame": 6675
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-66",
+      "nodeId": "compute",
+      "shotId": "compute-overview",
+      "text": "你每发一次消息，背后都要用算力。",
+      "startFrame": 6686,
+      "endFrame": 6791,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c133"
+      ],
+      "observedRange": {
+        "startFrame": 6686,
+        "endFrame": 6760
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-67",
+      "nodeId": "compute",
+      "shotId": "compute-overview",
+      "text": "为了买这些资源，Anthropic 签下多年大合同。",
+      "startFrame": 6791,
+      "endFrame": 6896,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c134",
+        "run-0-c135",
+        "run-0-c136"
+      ],
+      "observedRange": {
+        "startFrame": 6791,
+        "endFrame": 6886
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-68",
+      "nodeId": "compute",
+      "shotId": "compute-overview",
+      "text": "接下来有三种数字：最低要付多少、预计还会买多少、最多允许买多少。",
+      "startFrame": 6896,
+      "endFrame": 7076,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c137",
+        "run-0-c138",
+        "run-0-c139",
+        "run-0-c140"
+      ],
+      "observedRange": {
+        "startFrame": 6896,
+        "endFrame": 7064
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-69",
+      "nodeId": "compute",
+      "shotId": "compute-overview",
+      "text": "它们不是同一种账，不能直接加起来。",
+      "startFrame": 7076,
+      "endFrame": 7154,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c141",
+        "run-0-c142"
+      ],
+      "observedRange": {
+        "startFrame": 7076,
+        "endFrame": 7145
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-70",
+      "nodeId": "compute",
+      "shotId": "compute-google",
+      "text": "先看 Google：2026 年 4 月到 2033 年 7 月，",
+      "startFrame": 7154,
+      "endFrame": 7273,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c143",
+        "run-0-c144"
+      ],
+      "observedRange": {
+        "startFrame": 7154,
+        "endFrame": 7262
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-71",
+      "nodeId": "compute",
+      "shotId": "compute-google",
+      "text": "最低支出承诺约 1,145 亿美元。",
+      "startFrame": 7273,
+      "endFrame": 7385,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c145",
+        "run-0-c146"
+      ],
+      "observedRange": {
+        "startFrame": 7273,
+        "endFrame": 7376
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-72",
+      "nodeId": "compute",
+      "shotId": "compute-google",
+      "text": "公司还预计从包括 Google 在内的供应商额外采购约 1,250 亿到 1,500 亿美元的 TPU 资源，",
+      "startFrame": 7385,
+      "endFrame": 7625,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c147",
+        "run-0-c148",
+        "run-0-c149"
+      ],
+      "observedRange": {
+        "startFrame": 7385,
+        "endFrame": 7611
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-73",
+      "nodeId": "compute",
+      "shotId": "compute-google",
+      "text": "具体取决于交付和合同。这是对未来算力的巨额安排，",
+      "startFrame": 7625,
+      "endFrame": 7757,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c150",
+        "run-0-c151",
+        "run-0-c152"
+      ],
+      "observedRange": {
+        "startFrame": 7625,
+        "endFrame": 7745
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-74",
+      "nodeId": "compute",
+      "shotId": "compute-google",
+      "text": "不是说钱已经全付出去了。",
+      "startFrame": 7757,
+      "endFrame": 7822,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c153"
+      ],
+      "observedRange": {
+        "startFrame": 7757,
+        "endFrame": 7808
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-75",
+      "nodeId": "compute",
+      "shotId": "compute-amazon",
+      "text": "Amazon 这边，2026 年 5 月到 2036 年 4 月，",
+      "startFrame": 7822,
+      "endFrame": 7946,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c154",
+        "run-0-c155",
+        "run-0-c156"
+      ],
+      "observedRange": {
+        "startFrame": 7822,
+        "endFrame": 7935
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-76",
+      "nodeId": "compute",
+      "shotId": "compute-amazon",
+      "text": "最低承诺 1,100 亿美元。",
+      "startFrame": 7946,
+      "endFrame": 8027,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c157"
+      ],
+      "observedRange": {
+        "startFrame": 7946,
+        "endFrame": 8015
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-77",
+      "nodeId": "compute",
+      "shotId": "compute-amazon",
+      "text": "相当于先给未来很多年的机器签下大订单。",
+      "startFrame": 8027,
+      "endFrame": 8143,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c158",
+        "run-0-c159",
+        "run-0-c160"
+      ],
+      "observedRange": {
+        "startFrame": 8027,
+        "endFrame": 8135
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-78",
+      "nodeId": "compute",
+      "shotId": "compute-amazon",
+      "text": "用户看到的是聊天窗口，公司背后押的是长期现金流。",
+      "startFrame": 8143,
+      "endFrame": 8268,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c161",
+        "run-0-c162",
+        "run-0-c163",
+        "run-0-c164"
+      ],
+      "observedRange": {
+        "startFrame": 8143,
+        "endFrame": 8258
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-79",
+      "nodeId": "compute",
+      "shotId": "compute-microsoft",
+      "text": "Microsoft 的最低承诺是 449 亿美元，",
+      "startFrame": 8268,
+      "endFrame": 8365,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c165",
+        "run-0-c166"
+      ],
+      "observedRange": {
+        "startFrame": 8268,
+        "endFrame": 8354
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-80",
+      "nodeId": "compute",
+      "shotId": "compute-microsoft",
+      "text": "期限从 2026 年 11 月到 2033 年 5 月。",
+      "startFrame": 8365,
+      "endFrame": 8480,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c167"
+      ],
+      "observedRange": {
+        "startFrame": 8365,
+        "endFrame": 8467
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-81",
+      "nodeId": "compute",
+      "shotId": "compute-microsoft",
+      "text": "部分合同即使实际用得不够，",
+      "startFrame": 8480,
+      "endFrame": 8552,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c168",
+        "run-0-c169"
+      ],
+      "observedRange": {
+        "startFrame": 8480,
+        "endFrame": 8544
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-82",
+      "nodeId": "compute",
+      "shotId": "compute-microsoft",
+      "text": "仍可能需要付款，例外看合同条款。",
+      "startFrame": 8552,
+      "endFrame": 8646,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c170",
+        "run-0-c171"
+      ],
+      "observedRange": {
+        "startFrame": 8552,
+        "endFrame": 8633
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-83",
+      "nodeId": "compute",
+      "shotId": "compute-microsoft",
+      "text": "这就像订了长期套餐：用少了，也不一定能少付。",
+      "startFrame": 8646,
+      "endFrame": 8771,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c172",
+        "run-0-c173"
+      ],
+      "observedRange": {
+        "startFrame": 8646,
+        "endFrame": 8763
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-84",
+      "nodeId": "compute",
+      "shotId": "compute-spacex",
+      "text": "SpaceX.AI 的多份合同上限合计 1,205 亿美元。",
+      "startFrame": 8771,
+      "endFrame": 8934,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c174",
+        "run-0-c175"
+      ],
+      "observedRange": {
+        "startFrame": 8771,
+        "endFrame": 8915
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-85",
+      "nodeId": "compute",
+      "shotId": "compute-spacex",
+      "text": "全部交付后，每月合计约 31 亿美元；",
+      "startFrame": 8934,
+      "endFrame": 9057,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c176"
+      ],
+      "observedRange": {
+        "startFrame": 8934,
+        "endFrame": 9035
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-86",
+      "nodeId": "compute",
+      "shotId": "compute-spacex",
+      "text": "初始不可取消期结束后，双方可提前 90 天通知取消。",
+      "startFrame": 9057,
+      "endFrame": 9198,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c177",
+        "run-0-c178"
+      ],
+      "observedRange": {
+        "startFrame": 9057,
+        "endFrame": 9185
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-87",
+      "nodeId": "compute",
+      "shotId": "compute-spacex",
+      "text": "注意这是上限，不是已经花掉的钱。数字够吓人，",
+      "startFrame": 9198,
+      "endFrame": 9334,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c179",
+        "run-0-c180",
+        "run-0-c181",
+        "run-0-c182",
+        "run-0-c183"
+      ],
+      "observedRange": {
+        "startFrame": 9198,
+        "endFrame": 9327
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-88",
+      "nodeId": "compute",
+      "shotId": "compute-spacex",
+      "text": "但骂也得骂对账。",
+      "startFrame": 9334,
+      "endFrame": 9397,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c184"
+      ],
+      "observedRange": {
+        "startFrame": 9334,
+        "endFrame": 9381
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-89",
+      "nodeId": "governance",
+      "shotId": "section-07",
+      "text": "第 7 节：创始人和投票权。",
+      "startFrame": 9397,
+      "endFrame": 9489,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c185",
+        "run-0-c186"
+      ],
+      "observedRange": {
+        "startFrame": 9397,
+        "endFrame": 9482
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-90",
+      "nodeId": "governance",
+      "shotId": "control-vote",
+      "text": "上市以后，谁说了算？七位创始人最初组成 Founder LLC，",
+      "startFrame": 9489,
+      "endFrame": 9644,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c187",
+        "run-0-c188"
+      ],
+      "observedRange": {
+        "startFrame": 9489,
+        "endFrame": 9634
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-91",
+      "nodeId": "governance",
+      "shotId": "control-vote",
+      "text": "持有一股 F 类股份。这股没有经济权益，",
+      "startFrame": 9644,
+      "endFrame": 9747,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c189",
+        "run-0-c190"
+      ],
+      "observedRange": {
+        "startFrame": 9644,
+        "endFrame": 9740
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-92",
+      "nodeId": "governance",
+      "shotId": "control-vote",
+      "text": "却对应一般股东表决事项 50.1% 的投票权。说白了，",
+      "startFrame": 9747,
+      "endFrame": 9892,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c191",
+        "run-0-c192",
+        "run-0-c193"
+      ],
+      "observedRange": {
+        "startFrame": 9747,
+        "endFrame": 9890
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-93",
+      "nodeId": "governance",
+      "shotId": "control-vote",
+      "text": "公众可以来买股份，关键投票权仍然集中在这套创始人安排里。",
+      "startFrame": 9892,
+      "endFrame": 10040,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c194",
+        "run-0-c195",
+        "run-0-c196"
+      ],
+      "observedRange": {
+        "startFrame": 9892,
+        "endFrame": 10031
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-94",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "还有长期利益信托持有 T 类股份，",
+      "startFrame": 10040,
+      "endFrame": 10122,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c197"
+      ],
+      "observedRange": {
+        "startFrame": 10040,
+        "endFrame": 10112
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-95",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "通常有权选出董事会多数成员。",
+      "startFrame": 10122,
+      "endFrame": 10209,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c198"
+      ],
+      "observedRange": {
+        "startFrame": 10122,
+        "endFrame": 10193
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-96",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "可以把它想成三把不同的钥匙：",
+      "startFrame": 10209,
+      "endFrame": 10275,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c199",
+        "run-0-c200"
+      ],
+      "observedRange": {
+        "startFrame": 10209,
+        "endFrame": 10265
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-97",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "分多少钱、股东怎么投票、谁来选董事，",
+      "startFrame": 10275,
+      "endFrame": 10380,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c201",
+        "run-0-c202",
+        "run-0-c203"
+      ],
+      "observedRange": {
+        "startFrame": 10275,
+        "endFrame": 10373
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-98",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "不一定在同一批人手里。对用户而言，",
+      "startFrame": 10380,
+      "endFrame": 10461,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c204",
+        "run-0-c205"
+      ],
+      "observedRange": {
+        "startFrame": 10380,
+        "endFrame": 10459
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-99",
+      "nodeId": "governance",
+      "shotId": "control-trust",
+      "text": "这关系到公司讲的使命由谁监督、谁能改变方向。",
+      "startFrame": 10461,
+      "endFrame": 10593,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c206",
+        "run-0-c207",
+        "run-0-c208"
+      ],
+      "observedRange": {
+        "startFrame": 10461,
+        "endFrame": 10572
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-100",
+      "nodeId": "benefit",
+      "shotId": "section-08",
+      "text": "第 8 节：公益基金。",
+      "startFrame": 10593,
+      "endFrame": 10666,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c209",
+        "run-0-c210"
+      ],
+      "observedRange": {
+        "startFrame": 10593,
+        "endFrame": 10651
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-101",
+      "nodeId": "benefit",
+      "shotId": "fund-stake",
+      "text": "Anthropic 设立全资公益基金，",
+      "startFrame": 10666,
+      "endFrame": 10742,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c211"
+      ],
+      "observedRange": {
+        "startFrame": 10666,
+        "endFrame": 10729
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-102",
+      "nodeId": "benefit",
+      "shotId": "fund-stake",
+      "text": "投入约占全面摊薄股本 5% 的股份。说简单点，",
+      "startFrame": 10742,
+      "endFrame": 10877,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c212",
+        "run-0-c213",
+        "run-0-c214"
+      ],
+      "observedRange": {
+        "startFrame": 10742,
+        "endFrame": 10867
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-103",
+      "nodeId": "benefit",
+      "shotId": "fund-stake",
+      "text": "是按把可能转换的股份也算进去后的总股数，拿出约 5%。",
+      "startFrame": 10877,
+      "endFrame": 11046,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c215",
+        "run-0-c216",
+        "run-0-c217"
+      ],
+      "observedRange": {
+        "startFrame": 10877,
+        "endFrame": 11034
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-104",
+      "nodeId": "benefit",
+      "shotId": "fund-stake",
+      "text": "公司还说股价每比基准涨 50%，",
+      "startFrame": 11046,
+      "endFrame": 11136,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c218",
+        "run-0-c219"
+      ],
+      "observedRange": {
+        "startFrame": 11046,
+        "endFrame": 11132
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-105",
+      "nodeId": "benefit",
+      "shotId": "fund-stake",
+      "text": "董事会可以考虑追加最多 2%。听清楚，是可以考虑，不是自动捐。",
+      "startFrame": 11136,
+      "endFrame": 11331,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c220",
+        "run-0-c221",
+        "run-0-c222",
+        "run-0-c223"
+      ],
+      "observedRange": {
+        "startFrame": 11136,
+        "endFrame": 11323
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-106",
+      "nodeId": "benefit",
+      "shotId": "fund-founders",
+      "text": "创始人还承诺捐出各自持股的 80%，",
+      "startFrame": 11331,
+      "endFrame": 11424,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c224",
+        "run-0-c225"
+      ],
+      "observedRange": {
+        "startFrame": 11331,
+        "endFrame": 11417
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-107",
+      "nodeId": "benefit",
+      "shotId": "fund-founders",
+      "text": "员工也可参加股份捐赠配捐计划。承诺很醒目，",
+      "startFrame": 11424,
+      "endFrame": 11565,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c226",
+        "run-0-c227",
+        "run-0-c228"
+      ],
+      "observedRange": {
+        "startFrame": 11424,
+        "endFrame": 11551
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-108",
+      "nodeId": "benefit",
+      "shotId": "fund-founders",
+      "text": "普通人最该追问的也很简单：",
+      "startFrame": 11565,
+      "endFrame": 11627,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c229",
+        "run-0-c230",
+        "run-0-c231"
+      ],
+      "observedRange": {
+        "startFrame": 11565,
+        "endFrame": 11616
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-109",
+      "nodeId": "benefit",
+      "shotId": "fund-founders",
+      "text": "什么时候兑现，最终有多少真正用于公益？",
+      "startFrame": 11627,
+      "endFrame": 11738,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c232",
+        "run-0-c233"
+      ],
+      "observedRange": {
+        "startFrame": 11627,
+        "endFrame": 11731
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-110",
+      "nodeId": "benefit",
+      "shotId": "fund-founders",
+      "text": "招牌可以先挂，账也得以后继续看。",
+      "startFrame": 11738,
+      "endFrame": 11846,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c234",
+        "run-0-c235"
+      ],
+      "observedRange": {
+        "startFrame": 11738,
+        "endFrame": 11833
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-111",
+      "nodeId": "founding",
+      "shotId": "section-09",
+      "text": "第 9 节：公司的安全使命。",
+      "startFrame": 11846,
+      "endFrame": 11932,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c236",
+        "run-0-c237",
+        "run-0-c238"
+      ],
+      "observedRange": {
+        "startFrame": 11846,
+        "endFrame": 11915
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-112",
+      "nodeId": "founding",
+      "shotId": "mission-company",
+      "text": "这家公司由一批曾在 OpenAI 工作的人于 2021 年创办。",
+      "startFrame": 11932,
+      "endFrame": 12048,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c239",
+        "run-0-c240"
+      ],
+      "observedRange": {
+        "startFrame": 11932,
+        "endFrame": 12038
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-113",
+      "nodeId": "founding",
+      "shotId": "mission-company",
+      "text": "Dario Amodei 是首席执行官，",
+      "startFrame": 12048,
+      "endFrame": 12125,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c241"
+      ],
+      "observedRange": {
+        "startFrame": 12048,
+        "endFrame": 12113
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-114",
+      "nodeId": "founding",
+      "shotId": "mission-company",
+      "text": "Daniela Amodei 是总裁兼董事会主席。",
+      "startFrame": 12125,
+      "endFrame": 12211,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c242"
+      ],
+      "observedRange": {
+        "startFrame": 12125,
+        "endFrame": 12203
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-115",
+      "nodeId": "founding",
+      "shotId": "mission-company",
+      "text": "它强调 AI 安全，也以公益公司形式经营 Claude。",
+      "startFrame": 12211,
+      "endFrame": 12327,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c243"
+      ],
+      "observedRange": {
+        "startFrame": 12211,
+        "endFrame": 12317
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-116",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "公益公司不等于慈善机构，",
+      "startFrame": 12327,
+      "endFrame": 12384,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c244"
+      ],
+      "observedRange": {
+        "startFrame": 12327,
+        "endFrame": 12379
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-117",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "它照样是做生意的企业。作为用户，",
+      "startFrame": 12384,
+      "endFrame": 12459,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c245",
+        "run-0-c246",
+        "run-0-c247"
+      ],
+      "observedRange": {
+        "startFrame": 12384,
+        "endFrame": 12459
+      }
+    },
+    {
+      "id": "full-narration-v4-caption-118",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "我们当然希望 AI 安全；",
+      "startFrame": 12459,
+      "endFrame": 12516,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c248"
+      ],
+      "observedRange": {
+        "startFrame": 12459,
+        "endFrame": 12506
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-119",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "但当安全说法碰上版权争议、客户违规收入和商业竞争，",
+      "startFrame": 12516,
+      "endFrame": 12645,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c249",
+        "run-0-c250"
+      ],
+      "observedRange": {
+        "startFrame": 12516,
+        "endFrame": 12636
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-120",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "不能只看发布会上的漂亮话。",
+      "startFrame": 12645,
+      "endFrame": 12706,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c251",
+        "run-0-c252"
+      ],
+      "observedRange": {
+        "startFrame": 12645,
+        "endFrame": 12701
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-121",
+      "nodeId": "founding",
+      "shotId": "mission-comment",
+      "text": "讲安全讲得越响，越该接受别人拿实际做法来对照。",
+      "startFrame": 12706,
+      "endFrame": 12831,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c253",
+        "run-0-c254"
+      ],
+      "observedRange": {
+        "startFrame": 12706,
+        "endFrame": 12824
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-122",
+      "nodeId": "reading",
+      "shotId": "section-10",
+      "text": "第 10 节：增长与约束。",
+      "startFrame": 12831,
+      "endFrame": 12913,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c255",
+        "run-0-c256"
+      ],
+      "observedRange": {
+        "startFrame": 12831,
+        "endFrame": 12902
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-123",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "这十条放在一起，",
+      "startFrame": 12913,
+      "endFrame": 12954,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c257"
+      ],
+      "observedRange": {
+        "startFrame": 12913,
+        "endFrame": 12949
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-124",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "就是一家生意增长飞快、算力订单巨大、控制权高度集中的 AI 公司。它说安全，",
+      "startFrame": 12954,
+      "endFrame": 13144,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c258",
+        "run-0-c259",
+        "run-0-c260",
+        "run-0-c261",
+        "run-0-c262"
+      ],
+      "observedRange": {
+        "startFrame": 12954,
+        "endFrame": 13133
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-125",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "也要融资、竞争、签大单。",
+      "startFrame": 13144,
+      "endFrame": 13249,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c263",
+        "run-0-c264",
+        "run-0-c265"
+      ],
+      "observedRange": {
+        "startFrame": 13144,
+        "endFrame": 13240
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-126",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "普通用户要看的不是口号够不够正义，",
+      "startFrame": 13249,
+      "endFrame": 13324,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c266",
+        "run-0-c267"
+      ],
+      "observedRange": {
+        "startFrame": 13249,
+        "endFrame": 13317
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-127",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "而是作品怎么用、规则怎么执行、承诺有没有兑现。",
+      "startFrame": 13324,
+      "endFrame": 13464,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c268",
+        "run-0-c269",
+        "run-0-c270"
+      ],
+      "observedRange": {
+        "startFrame": 13324,
+        "endFrame": 13443
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-128",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "骂它虚伪可以，但把证据和口径弄清楚，",
+      "startFrame": 13464,
+      "endFrame": 13563,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-0-c271",
+        "run-1-c1"
+      ],
+      "observedRange": {
+        "startFrame": 13464,
+        "endFrame": 13558
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-129",
+      "nodeId": "reading",
+      "shotId": "summary",
+      "text": "骂起来才更有力。",
+      "startFrame": 13563,
+      "endFrame": 13613,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-1-c2"
+      ],
+      "observedRange": {
+        "startFrame": 13563,
+        "endFrame": 13601
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-130",
+      "nodeId": "reading",
+      "shotId": "user-ending",
+      "text": "好了，10条都说完了，请一键三连加转发，",
+      "startFrame": 13613,
+      "endFrame": 13716,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-1-c3",
+        "run-1-c4",
+        "run-1-c5"
+      ],
+      "observedRange": {
+        "startFrame": 13613,
+        "endFrame": 13710
+      },
+      "displayEndOrigin": "reconstructed_design"
+    },
+    {
+      "id": "full-narration-v4-caption-131",
+      "nodeId": "reading",
+      "shotId": "user-ending",
+      "text": "方便大家一起骂A畜。当然你也可以在评论直接骂。",
+      "startFrame": 13716,
+      "endFrame": 13849,
+      "trackId": "full-narration-v4",
+      "timingKind": "observed_start_with_planned_hold",
+      "sourceKind": "audio_caption",
+      "sourceCueIds": [
+        "run-1-c6",
+        "run-1-c7",
+        "run-1-c8"
+      ],
+      "observedRange": {
+        "startFrame": 13716,
+        "endFrame": 13840
+      },
+      "displayEndOrigin": "reconstructed_design"
+    }
+  ]
+}

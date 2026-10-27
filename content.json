@@ -1,0 +1,960 @@
+{
+  "media": [
+    {
+      "id": "dario-2023",
+      "kind": "portrait",
+      "title": "Dario Amodei 在 TechCrunch Disrupt",
+      "subject": "Anthropic 联合创始人兼首席执行官 Dario Amodei",
+      "createdDate": "2023 年 9 月 20 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Kimberly White / Getty Images for TechCrunch；由 TechCrunch 发布",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_02.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Dario Amodei 在旧金山参加 TechCrunch Disrupt 2023。照片摄于本次上市申请之前。",
+      "derivation": "使用 Commons 收录原图，未自行裁切或修饰",
+      "evidenceLimit": "这张活动照片用于辨认人物，不是提交上市申请现场。",
+      "width": 2667,
+      "height": 4000,
+      "reviewStatus": "已核对人物、拍摄日期和 Commons 的 Flickr 许可复核记录；图像元数据署名包含 Getty Images。",
+      "file": {
+        "path": "media/dario-2023.jpg",
+        "sha256": "bfa136c782658fcff6cce392f17425f84b3c078cd3fbea925cdc02318e947e96"
+      }
+    },
+    {
+      "id": "nasdaq-2021",
+      "kind": "photo",
+      "title": "纽约纳斯达克 MarketSite",
+      "subject": "纽约时代广场的 Nasdaq MarketSite",
+      "createdDate": "2021 年 9 月 19 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "ajay_suresh",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "时代广场的 Nasdaq MarketSite，摄于 2021 年；用于说明公司拟申请挂牌的市场背景。",
+      "derivation": "使用 Commons 收录原图，未自行裁切或修饰",
+      "evidenceLimit": "摄于 2021 年，仅作市场地点背景。",
+      "width": 3731,
+      "height": 3731,
+      "reviewStatus": "已核对地点、拍摄日期和 Commons 的 Flickr 许可复核记录。",
+      "file": {
+        "path": "media/nasdaq-2021.jpg",
+        "sha256": "3283a8d3d903d9bc36b7fdf8df46ff163dd5da594e30acbb078d49142ab366b1"
+      }
+    },
+    {
+      "id": "illustration-growth",
+      "kind": "document",
+      "title": "收入增长：六个季度",
+      "subject": "2025 年第一季度至 2026 年第二季度的季度收入，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "2025 年第一季度至 2026 年第二季度的季度收入，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Quarterly Results of Operations，PDF 第 168 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-growth.png",
+        "sha256": "df62a735ae899ad96a93b25a412aed8284a999114b099623acd02d037c986507"
+      }
+    },
+    {
+      "id": "illustration-loss",
+      "kind": "document",
+      "title": "上半年净亏损及公允价值费用",
+      "subject": "2026 年上半年净亏损与其中的公允价值变动费用，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "2026 年上半年净亏损与其中的公允价值变动费用，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Summary Consolidated Financial and Other Data，PDF 第 33 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-loss.png",
+        "sha256": "3d434980985ec05e60aa7bc9df8ff046635f52c63b01138997088410e81fec32"
+      }
+    },
+    {
+      "id": "illustration-compute",
+      "kind": "document",
+      "title": "长期算力合同",
+      "subject": "四家基础设施供应商的承诺或上限，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "四家基础设施供应商的承诺或上限，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Infrastructure Service Arrangements，PDF 第 181—182 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-compute.png",
+        "sha256": "0081b2a9a080bd3a974649f7976963ba3c6ecd3113f13f3996a66e35885a08e1"
+      }
+    },
+    {
+      "id": "bartz-portrait",
+      "kind": "portrait",
+      "title": "Andrea Bartz 在书展",
+      "subject": "作家 Andrea Bartz",
+      "createdDate": "2023 年 5 月",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Frypie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andrea_Bartz._5204100.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Andrea Bartz 在 2023 年 Gaithersburg Book Festival 的活动照片。",
+      "derivation": "保留下载原图，未重新裁切",
+      "evidenceLimit": "拍摄于诉讼之前，用于辨认人物。",
+      "width": 2606,
+      "height": 2794,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/bartz-portrait.jpg",
+        "sha256": "cfce65d4c39318b2e7161437f0b2479a933ca6ac33c0a354e86ce62bbc94eda6"
+      }
+    },
+    {
+      "id": "bartz-book",
+      "kind": "document",
+      "title": "《The Herd》封面",
+      "subject": "Andrea Bartz 的小说 The Herd",
+      "createdDate": "2020 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "封面版权归相关权利人；作者 Andrea Bartz",
+      "sourceUrl": "https://www.andreabartz.com/contact/press-materials/",
+      "license": "作者官网提供媒体封面；本地解释使用，后续公开和离线分发范围待核",
+      "licenseUrl": "https://www.andreabartz.com/contact/press-materials/",
+      "caption": "《The Herd》是 Andrea Bartz 的作品之一；封面来自作者官网媒体资料。",
+      "derivation": "原样使用作者官网提供的封面文件",
+      "evidenceLimit": "仅用于介绍作者作品，不据此断言该具体书名属于诉讼和解名单。",
+      "width": 1875,
+      "height": 2850,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/bartz-book.jpg",
+        "sha256": "8d6b207311639da33521f3124887ab114ec8b1b08a577e505154554a37ccde3d"
+      }
+    },
+    {
+      "id": "anthropic-building",
+      "kind": "photo",
+      "title": "500 Howard Street 办公楼",
+      "subject": "旧金山 500 Howard Street",
+      "createdDate": "2020 年 1 月 3 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "HaeB",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slack_offices,_Howard_Street,_San_Francisco_(viewed_from_the_south-west,_January_2020).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Anthropic 后来使用的 500 Howard Street；照片拍摄时为 Slack 办公楼。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "拍摄于 Anthropic 入驻之前；不反映 2026 年办公室内部。",
+      "width": 2865,
+      "height": 2952,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/anthropic-building.jpg",
+        "sha256": "6f468d8bd885b43c04ad2353587bccc1a8d3143ac775aab3fb8ed9d6ff0c5274"
+      }
+    },
+    {
+      "id": "google-center",
+      "kind": "photo",
+      "title": "Google 数据中心",
+      "subject": "Google 位于俄勒冈州 The Dalles 的数据中心",
+      "createdDate": "2020 年 6 月 23 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Lambtron",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_data_center.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Google 的 The Dalles 数据中心外观。Google 是文中讨论的基础设施供应商之一。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "不代表该具体设施用于 Anthropic 合同。",
+      "width": 3296,
+      "height": 2408,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/google-center.jpg",
+        "sha256": "9e82dd87908002c82c100178b5ccb22494e5c3cad941f85b2febb7aba59b6079"
+      }
+    },
+    {
+      "id": "amazon-office",
+      "kind": "photo",
+      "title": "Amazon Spheres",
+      "subject": "西雅图亚马逊总部园区 Amazon Spheres",
+      "createdDate": "2018 年 10 月 21 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Joe Mabel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Amazon 西雅图总部园区的 Spheres，摄于 2018 年。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "公司办公园区，并非本次算力合同设施。",
+      "width": 4288,
+      "height": 2848,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/amazon-office.jpg",
+        "sha256": "52aa7154737e6555f3bf6d773e673d60dcdecf61fa9476ac501d94f3316ca5e4"
+      }
+    },
+    {
+      "id": "microsoft-office",
+      "kind": "photo",
+      "title": "Microsoft Redmond 园区",
+      "subject": "微软 Redmond 园区 92 号楼",
+      "createdDate": "2015 年 6 月 18 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Jiaqian AirplaneFan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "caption": "微软 Redmond 园区 92 号楼，摄于 2015 年。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "公司园区，并非本次算力合同设施。",
+      "width": 4912,
+      "height": 3264,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/microsoft-office.jpg",
+        "sha256": "ae5ece5124d112d72b6965506111a2628fb97de13515d6732727918e310ffa8a"
+      }
+    },
+    {
+      "id": "spacex-office",
+      "kind": "photo",
+      "title": "SpaceX Hawthorne 设施",
+      "subject": "SpaceX 位于加州 Hawthorne 的办公与工厂设施",
+      "createdDate": "2012 年 9 月 28 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "SpaceX",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_Headquarters,_Hawthorne,_CA.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "caption": "SpaceX 的 Hawthorne 设施，摄于 2012 年；S-1 所列供应商 SpaceX.AI 是其子公司。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "并非 S-1 合同所指数据中心。",
+      "width": 5616,
+      "height": 3744,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/spacex-office.jpg",
+        "sha256": "c4e641c28cf07515e2f2f62ce46d1473d4ca2ade042419e53b1e8620009118d1"
+      }
+    },
+    {
+      "id": "anthropic-mark",
+      "kind": "document",
+      "title": "Anthropic 标识",
+      "subject": "Anthropic 品牌标识",
+      "createdDate": "2023 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "caption": "用于识别 Anthropic；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 108,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/anthropic-mark.png",
+        "sha256": "6bb5fed8207392b25cfef4c0019e0d0b2d25427ad4e3a298e0ca5fae62253500"
+      }
+    },
+    {
+      "id": "claude-mark",
+      "kind": "document",
+      "title": "Claude 标识",
+      "subject": "Claude 品牌标识",
+      "createdDate": "2024 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.png",
+      "caption": "用于识别 Claude；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 482,
+      "height": 104,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/claude-mark.png",
+        "sha256": "fb5b1700cbfaae44e4d1050c3df83aac3e2d21ad8ee196393188b52e835b03a0"
+      }
+    },
+    {
+      "id": "google-mark",
+      "kind": "document",
+      "title": "Google 标识",
+      "subject": "Google 品牌标识",
+      "createdDate": "2026 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Google LLC",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_2026_logo.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Google_2026_logo.svg",
+      "caption": "用于识别 Google；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 291,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/google-mark.png",
+        "sha256": "2e7e69174c100ad8f37c2d134d16cdf522576aca544c84c401f3e48a09d80070"
+      }
+    },
+    {
+      "id": "aws-mark",
+      "kind": "document",
+      "title": "Amazon Web Services 标识",
+      "subject": "Amazon Web Services 品牌标识",
+      "createdDate": "2017 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Amazon Web Services",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg",
+      "license": "Apache 2.0；商标权另计",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+      "caption": "用于识别 Amazon Web Services；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 575,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/aws-mark.png",
+        "sha256": "879c48bdd27c82829d7fe572fab9ba49ecbead4dd6d7e2cf8ef5abfced572150"
+      }
+    },
+    {
+      "id": "microsoft-mark",
+      "kind": "document",
+      "title": "Microsoft 标识",
+      "subject": "Microsoft 品牌标识",
+      "createdDate": "2012 年标识",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Microsoft",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_2012.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_2012.png",
+      "caption": "用于识别 Microsoft；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 640,
+      "height": 137,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/microsoft-mark.png",
+        "sha256": "e57dadf4a7b806d2357c624b252aa46c02e00b01200bc0751d165b8f9c8d06e6"
+      }
+    },
+    {
+      "id": "spacex-mark",
+      "kind": "document",
+      "title": "SpaceX 标识",
+      "subject": "SpaceX 品牌标识",
+      "createdDate": "2014 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "SpaceX",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_logo.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_logo.png",
+      "caption": "用于识别 SpaceX；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 512,
+      "height": 53,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/spacex-mark.png",
+        "sha256": "6b51601fcb38733b6a2b4a5fbe92720971eafc78bd77486c85acd46365ab912a"
+      }
+    },
+    {
+      "id": "diagram-governance",
+      "kind": "document",
+      "title": "创始人与长期利益信托",
+      "subject": "说明 F 类和 T 类股份对应的不同治理权利。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "说明 F 类和 T 类股份对应的不同治理权利。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-governance.png",
+        "sha256": "de9076da6de21801b026882f52e1c71deb7f7653af9f814937c88a2bc41684a9"
+      }
+    },
+    {
+      "id": "diagram-benefit",
+      "kind": "document",
+      "title": "公益基金股份安排",
+      "subject": "说明 S-1 披露的初始股份和董事会追加机制。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "说明 S-1 披露的初始股份和董事会追加机制。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-benefit.png",
+        "sha256": "4323b67d2e6377fbc7bf54bea5f7e9d76912a596209e206586472c4cd3b76d6e"
+      }
+    },
+    {
+      "id": "diagram-outlook",
+      "kind": "document",
+      "title": "理解公司的四个角度",
+      "subject": "将客户需求、融资、算力和治理作为阅读线索。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "将客户需求、融资、算力和治理作为阅读线索。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-outlook.png",
+        "sha256": "72ad7733b6b5f02da9b49e587fac338f7bdc3f4b991b9e9be6bc82bc7547aef5"
+      }
+    },
+    {
+      "id": "diagram-customers",
+      "kind": "document",
+      "title": "客户指标",
+      "subject": "按公司披露口径展示净收入留存率与违规使用收入估计。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "按公司披露口径展示净收入留存率与违规使用收入估计。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-customers.png",
+        "sha256": "2d25e53ab1830952cdb4ada5e6b3e18251213461c5da80ede5e340da193b8635"
+      }
+    },
+    {
+      "id": "daniela-portrait",
+      "kind": "portrait",
+      "title": "Daniela Amodei 官方肖像",
+      "subject": "Anthropic 联合创始人、总裁及董事会主席 Daniela Amodei",
+      "createdDate": "拍摄日期未公开",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic 官网；摄影作者未注明",
+      "sourceUrl": "https://www.anthropic.com/company/leadership",
+      "license": "官网肖像供本地解释识别；公开使用许可未核实",
+      "licenseUrl": "https://www.anthropic.com/company/leadership",
+      "caption": "Anthropic 官网公布的 Daniela Amodei 肖像。",
+      "derivation": "原样保存官网公开图片，未做裁切或加工",
+      "evidenceLimit": "拍摄日期未公开；离线传播、公开发布或商业用途前须核实许可。",
+      "width": 640,
+      "height": 800,
+      "reviewStatus": "已核对官网身份；公开复用许可未核实。",
+      "file": {
+        "path": "media/daniela-portrait.webp",
+        "sha256": "3ae873c2076d65d5bf2085c386f810c49018a481d26696463512e726a22a3df0"
+      }
+    },
+    {
+      "id": "amazon-mark",
+      "kind": "document",
+      "title": "Amazon 标识",
+      "subject": "Amazon 公司标识",
+      "createdDate": "2024 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Amazon.com, Inc.、Koto 和 NaN",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+      "caption": "Amazon 公司标识，用于识别供应商。",
+      "derivation": "使用 Commons SVG 渲染的 PNG 预览",
+      "evidenceLimit": "用于识别，不代表公司认可本作品。",
+      "width": 960,
+      "height": 322,
+      "file": {
+        "path": "media/amazon-mark.png",
+        "sha256": "116adc22d42205bab6b9662b712ce7eae41806501394d4234838f5f2b35bbee6"
+      }
+    }
+  ],
+  "schemaVersion": "1.0",
+  "event": "A\\ 申请上市：如何骂得有理有据？",
+  "question": "一家高速增长、持续投入巨额算力的 AI 公司，为什么选择走向公开市场？招股材料又揭示了什么？",
+  "scope": "截至 2026 年 10 月 27 日：从公司发展、财务、版权、算力和治理解释本次申请；发行结果尚未确定。",
+  "audience": "普通成年读者",
+  "edits": [
+    {
+      "original": "用户提供的文章与 SEC 注册声明",
+      "revision": "围绕发行、经营、算力和治理重组为专题解释。",
+      "basis": "依据公开 S-1 与公司公告核对口径；详细整理记录保存在作品资料目录。",
+      "sourceIds": [
+        "pdf",
+        "sec",
+        "announcement"
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "name": "S-1 注册声明",
+      "explanation": "拟在美国公开发行证券时提交的注册材料，包含业务、风险和财务披露；提交不等于发行已生效。"
+    },
+    {
+      "name": "净收入留存率",
+      "explanation": "衡量特定原有客户群在两个期间的收入变化；须核对客户范围、时间窗口和剔除项目。"
+    },
+    {
+      "name": "公允价值变动",
+      "explanation": "根据会计规则重新计量资产或负债价值造成的账面变化；是否伴随现金流取决于具体交易。"
+    },
+    {
+      "name": "可转换票据与 SAFE",
+      "explanation": "可能依约转换为股权的融资工具；两者法律和会计处理并不完全相同。"
+    },
+    {
+      "name": "照付不议",
+      "explanation": "合同约定即使使用量不足也须支付约定最低金额；具体义务以合同为准。"
+    },
+    {
+      "name": "公益公司",
+      "explanation": "一种兼顾营利与特定公共利益的公司形式，不等于慈善机构。"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Dario Amodei",
+      "goal": "作为联合创始人和首席执行官，领导模型研发及公司经营，并推动公司所述的 AI 安全使命。",
+      "constraint": "需要在技术发展、商业竞争、资源投入及风险管理之间作出决策。",
+      "knowledge": "公司在 2026 年 10 月提交 S-1，发行条件仍待确定。",
+      "sourceIds": [
+        "sec",
+        "announcement"
+      ],
+      "portraitMediaId": "dario-2023"
+    },
+    {
+      "name": "Daniela Amodei",
+      "goal": "作为联合创始人、总裁和董事会主席，推动公司研究、产品、治理和商业工作。",
+      "constraint": "组织需要协调技术、安全和商业运行。",
+      "knowledge": "官网披露她担任总裁和董事会主席。",
+      "sourceIds": [
+        "leadership"
+      ],
+      "portraitMediaId": "daniela-portrait"
+    },
+    {
+      "name": "Anthropic 与创始团队",
+      "goal": "开发并销售 AI 产品，同时推进公司声明的安全和公益使命。",
+      "constraint": "面临竞争、算力支出、版权争议及公开市场披露要求。",
+      "knowledge": "提交申请时公司知道自己的披露信息，但发行结果和未来需求尚未确定。",
+      "sourceIds": [
+        "announcement",
+        "apipo"
+      ]
+    },
+    {
+      "name": "客户与基础设施供应商",
+      "goal": "客户使用模型；供应商提供计算资源或相关服务。",
+      "constraint": "合同、使用政策和资源供给约束双方。",
+      "knowledge": "S-1 披露了部分主要基础设施合同及公司对客户收入的统计口径。",
+      "sourceIds": [
+        "sec"
+      ]
+    },
+    {
+      "name": "作者和版权权利人",
+      "goal": "寻求对作品被侵权使用的救济。",
+      "constraint": "诉讼覆盖范围、和解及分配规则限制具体救济。",
+      "knowledge": "Bartz 集体和解已获法院最终批准。",
+      "sourceIds": [
+        "apbartz"
+      ]
+    },
+    {
+      "name": "Andrea Bartz",
+      "goal": "与其他原告代表著作权人寻求法律救济。",
+      "constraint": "诉讼和和解的覆盖范围、费用和分配规则影响具体救济。",
+      "knowledge": "2026 年 7 月法院最终批准集体和解。",
+      "sourceIds": [
+        "apbartz"
+      ],
+      "portraitMediaId": "bartz-portrait"
+    }
+  ],
+  "presentation": {
+    "era": "foreign-contemporary",
+    "rationale": "当代美国科技与金融事件，采用清晰现代的标题和正文组合。"
+  },
+  "sources": [
+    {
+      "id": "pdf",
+      "title": "用户提供的文章 PDF",
+      "status": "read",
+      "locator": "第 1—14 页",
+      "reviewScope": "已完整提取并阅读文字；作者对 S-1 的具体数字仍须与原始申报表逐项核对。"
+    },
+    {
+      "id": "announcement",
+      "title": "Anthropic：提交 S-1 公告",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "status": "read",
+      "locator": "2026-10-26，公告全文",
+      "reviewScope": "核实申请、拟议代码、股数和价格尚未确定。"
+    },
+    {
+      "id": "sec",
+      "title": "Anthropic：Form S-1 注册声明，SEC 原始文件",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "status": "read",
+      "locator": "2026-10-26；术语第 3 页、摘要及财务第 24—25 页、经营讨论第 132—175 页、治理第 242 页起",
+      "reviewScope": "已读取对应术语、季度及半年财务表、客户收入、基础设施合同、股权和治理章节；未声称全篇逐句审阅。原始 HTML SHA-256 b6836006abac03a7ab0244b79b968d9bcecde9f49ada9b79be78546d427f541e。"
+    },
+    {
+      "id": "apipo",
+      "title": "美联社：Anthropic 申请上市",
+      "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+      "status": "read",
+      "locator": "2026-10-26，财务与治理段落",
+      "reviewScope": "已读营收、净亏损、公允价值调整和投票权的报道；为独立二手报道。"
+    },
+    {
+      "id": "apbartz",
+      "title": "美联社：Bartz 案和解获批",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "status": "read",
+      "locator": "2026-07-21，正文",
+      "reviewScope": "已读和解金额、覆盖书籍和法院此前的区分；非判决书全文。"
+    },
+    {
+      "id": "fund",
+      "title": "Anthropic：Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "status": "read",
+      "locator": "2026-10-18，公告全文",
+      "reviewScope": "已读最初股份、股东批准条件、董事会裁量与创始人捐赠承诺；不等于已完成资金分配。"
+    },
+    {
+      "id": "leadership",
+      "title": "Anthropic：领导团队",
+      "url": "https://www.anthropic.com/company/leadership",
+      "status": "read",
+      "locator": "CEO and President 部分",
+      "reviewScope": "已读取 Dario 和 Daniela 的身份及职责；肖像复用许可未核实。"
+    }
+  ],
+  "input": {
+    "kind": "material"
+  },
+  "nodes": [
+    {
+      "id": "founding",
+      "chapterId": "background",
+      "title": "一家以安全为使命的公司",
+      "historicalDate": {
+        "label": "2021 年",
+        "precision": "approximate"
+      },
+      "paragraphs": [
+        "Anthropic 由一批曾在 OpenAI 工作的人于 2021 年创办。联合创始人 Dario Amodei 担任首席执行官，Daniela Amodei 担任总裁和董事会主席。公司采用美国公益公司形式，公开使命是让社会安全地过渡到变革性人工智能。它既经营 Claude 等产品，也强调安全研究。",
+        "公益公司仍是营利企业。它要面对收入、融资、竞争和基础设施成本，同时还要在治理中兼顾公开使命。"
+      ],
+      "sourceIds": [
+        "apipo",
+        "announcement",
+        "leadership"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "dario-2023",
+        "daniela-portrait",
+        "anthropic-building",
+        "anthropic-mark"
+      ]
+    },
+    {
+      "id": "growth",
+      "chapterId": "accounts",
+      "title": "收入迅速扩大，但要分清指标",
+      "historicalDate": {
+        "label": "2023 年至 2026 年上半年",
+        "precision": "range"
+      },
+      "paragraphs": [
+        "Anthropic 的收入从 2023 年的 4,100 万美元增至 2025 年的 45.85 亿美元。2026 年第一季度收入为 47.31 亿美元，第二季度达到 115.55 亿美元；上半年合计为 162.86 亿美元。",
+        "第二季度的算力和基础设施费用为 55.58 亿美元，收入约为这一费用的 2.08 倍。同期营业利润为 9.74 亿美元。算力费用只是费用的一部分，人员、销售和其他支出也会影响利润；同一比例不能直接当作毛利率。"
+      ],
+      "sourceIds": [
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "illustration-growth"
+      ]
+    },
+    {
+      "id": "copyright",
+      "chapterId": "risks",
+      "title": "Bartz 案：训练和数据来源是不同问题",
+      "historicalDate": {
+        "label": "2024 年至 2026 年 7 月",
+        "precision": "range"
+      },
+      "paragraphs": [
+        "2024 年，Andrea Bartz 等作者就作品用于 AI 训练提起诉讼。2026 年 7 月，法院最终批准 15 亿美元集体和解；美联社称该和解覆盖超过 48.2 万本书。",
+        "Andrea Bartz 是美国小说家，《The Herd》是她的作品之一。她与其他作者共同提出诉讼，代表一批著作权人寻求救济。",
+        "该案中，法院曾区分训练用途与从盗版来源取得和保存书籍的问题。和解是双方达成、经法院批准的解决方式，不应简单说成法院罚款。每本约 3,000 美元是总体安排中的近似数，实际权利人所得还受费用和分配规则影响。这一案件也不能代表所有 AI 版权争议的最终答案。"
+      ],
+      "sourceIds": [
+        "pdf",
+        "apbartz"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "bartz-portrait",
+        "bartz-book"
+      ]
+    },
+    {
+      "id": "loss",
+      "chapterId": "accounts",
+      "title": "807 亿美元亏损如何出现",
+      "historicalDate": {
+        "label": "2026 年上半年",
+        "precision": "range"
+      },
+      "paragraphs": [
+        "2026 年上半年，Anthropic 的净亏损为 807.48 亿美元。其中，可转换票据、衍生负债和 SAFE 的公允价值变动造成约 723.88 亿美元费用。",
+        "这些融资工具的价值会随公司估值及合同条件变化。会计规则要求公司重新计量相关负债并反映在损益中；当期公允价值变动不等于同额现金支出，但转换也可能带来股权稀释。",
+        "公司披露的调整后净利润为 26.71 亿美元。这个非公认会计原则指标剔除了部分项目，适合与净亏损并列阅读，以了解不同口径下的经营情况。"
+      ],
+      "sourceIds": [
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "illustration-loss"
+      ]
+    },
+    {
+      "id": "customers",
+      "chapterId": "risks",
+      "title": "客户增长与政策执行",
+      "historicalDate": {
+        "label": "截至 2026 年 9 月",
+        "precision": "approximate"
+      },
+      "paragraphs": [
+        "截至 2026 年 9 月 30 日，Anthropic 披露的净收入留存率约为 900%。公司以一年前三个月内至少产生 1 美元收入的合格客户为基础，比较这批客户在最近三个月的收入；固定价格的 Claude Pro 和 Max 订阅用户不计入这一指标。",
+        "公司估计，2026 年前九个月约 5% 至 7% 的收入来自后来被识别为违反使用政策或商业条款的客户。识别、调查和执行需要时间，公司在服务提供时确认收入。它在 8 月和 9 月加强识别与执行，预计这一比例未来下降，但对收入的影响存在不确定性。"
+      ],
+      "sourceIds": [
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "claude-mark",
+        "diagram-customers"
+      ]
+    },
+    {
+      "id": "compute",
+      "chapterId": "risks",
+      "title": "长期算力合同：为增长预留资源",
+      "historicalDate": {
+        "label": "2026 年及其后",
+        "precision": "range"
+      },
+      "paragraphs": [
+        "为了训练和运行模型，Anthropic 与多家供应商签订长期基础设施协议。S-1 披露：与 Google 的最低支出承诺约 1,145 亿美元，覆盖 2026 年 4 月至 2033 年 7 月；与 Amazon 的最低承诺为 1,100 亿美元，覆盖 2026 年 5 月至 2036 年 4 月；与 Microsoft 的最低承诺为 449 亿美元，覆盖 2026 年 11 月至 2033 年 5 月。",
+        "公司预计，还承诺从包括 Google 在内的供应商采购额外 TPU 资源，支付规模约 1,250 亿至 1,500 亿美元，取决于资源交付和合同条件。几项最低承诺包含实际使用不足时仍须支付的条款，具体例外依合同而定。",
+        "与 SpaceX.AI 的多份合同上限合计 1,205 亿美元，全部算力交付后合计约每月 31 亿美元；初始不可取消期间结束后，任一方可提前 90 天通知取消。合同的最低承诺、上限和估计值有不同条件，也覆盖不同年份。它们既为增长预留资源，也让现金流与未来需求紧密相连。"
+      ],
+      "sourceIds": [
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "illustration-compute",
+        "google-center",
+        "google-mark",
+        "amazon-office",
+        "amazon-mark",
+        "aws-mark",
+        "microsoft-office",
+        "microsoft-mark",
+        "spacex-office",
+        "spacex-mark"
+      ]
+    },
+    {
+      "id": "governance",
+      "chapterId": "governance",
+      "title": "创始人、信托与投票权",
+      "historicalDate": {
+        "label": "2026 年 10 月",
+        "precision": "approximate"
+      },
+      "paragraphs": [
+        "按发行完成时的拟议治理结构，七位创始人初始组成 Founder LLC，由该实体持有一股 F 类股份。这股股份没有经济权益，在一般股东表决事项上对应全部股权投票权的 50.1%，包括选举非 T 类董事。",
+        "长期利益信托持有 T 类股份，通常有权选举董事会多数成员。公司设计这一结构，是为了让财务利益之外的长期使命进入治理安排。投票权、董事任命权和取得分红或出售收益的经济权益分别由不同规则决定。"
+      ],
+      "sourceIds": [
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "dario-2023",
+        "diagram-governance"
+      ]
+    },
+    {
+      "id": "benefit",
+      "chapterId": "governance",
+      "title": "公益基金与有条件的追加",
+      "historicalDate": {
+        "label": "2026 年 10 月 18 日",
+        "precision": "exact"
+      },
+      "paragraphs": [
+        "Anthropic 在 10 月 18 日宣布设立全资公益基金，并提出向基金投入公司 5% 的股份。10 月 26 日的 S-1 披露，公司已向基金投入 846,840,960 股 N 类股份，按披露时的全面摊薄口径约占 5%。当股价在既定基准上每增长 50% 时，董事会可酌情追加至多 2%。基金将为公益项目提供资源。",
+        "创始人另承诺捐赠其持股的 80%，员工也可参加股份捐赠配捐计划。股份承诺、基金持股及最终用于公益的资金处于不同阶段；实际价值还会随公司估值变化。"
+      ],
+      "sourceIds": [
+        "fund",
+        "sec"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "anthropic-mark",
+        "diagram-benefit"
+      ]
+    },
+    {
+      "id": "filing",
+      "chapterId": "background",
+      "title": "Anthropic 走向公开市场",
+      "historicalDate": {
+        "label": "2026 年 10 月 26 日",
+        "precision": "exact"
+      },
+      "paragraphs": [
+        "2026 年 10 月 26 日，Anthropic 向美国证券交易委员会提交 S-1 注册声明，计划发行 A 类普通股，并申请在纳斯达克以 ANT 为代码挂牌。公开发行将让公司进入资本市场，同时对外披露经营、财务、风险和治理信息。",
+        "截至提交时，发行股数和价格区间尚未确定。市场对募资规模和估值有不同预测；最终规模、价格与上市日期将取决于后续发行安排。"
+      ],
+      "sourceIds": [
+        "announcement",
+        "sec",
+        "pdf"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "nasdaq-2021",
+        "anthropic-mark"
+      ]
+    },
+    {
+      "id": "reading",
+      "chapterId": "outlook",
+      "title": "读这份材料时，应同时看增长与约束",
+      "historicalDate": {
+        "label": "2026 年 10 月 26 日",
+        "precision": "exact"
+      },
+      "paragraphs": [
+        "Anthropic 的 S-1 展示了一家前沿 AI 企业的几组关键关系：快速增长的客户需求、需要提前锁定的算力、融资工具带来的会计影响，以及创始人和长期利益信托共同构成的治理结构。",
+        "公司能否把模型能力持续转化为客户价值，并在算力、研发和其他成本之间保持平衡，将影响它未来的发展。公开发行的最终条件与后续经营表现，还需要结合新的公开文件观察。"
+      ],
+      "sourceIds": [
+        "sec",
+        "announcement"
+      ],
+      "claimKind": "fact",
+      "status": "reviewed",
+      "mediaIds": [
+        "diagram-outlook"
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "background",
+      "title": "从实验室到资本市场"
+    },
+    {
+      "id": "accounts",
+      "title": "增长与亏损"
+    },
+    {
+      "id": "risks",
+      "title": "版权、客户与算力"
+    },
+    {
+      "id": "governance",
+      "title": "控制权和公益"
+    },
+    {
+      "id": "outlook",
+      "title": "如何理解这份申请"
+    }
+  ]
+}

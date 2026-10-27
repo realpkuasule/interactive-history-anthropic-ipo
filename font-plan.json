@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "preset": "foreign-contemporary",
+  "catalogSha256": "8b20d595615809ea6bb025c213af4072a87831da4ad39d9d77dab55dd35500d2",
+  "nativeSelectionSha256": "e2c03647c8b292e67a902a1f1022efd947f46050cc5f7e4865b6cf994eb6c1b4",
+  "roles": {
+    "heading": {
+      "id": "glow-compressed-medium",
+      "native": {
+        "font": {
+          "path": "fonts/b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d.otf",
+          "sha256": "b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d"
+        },
+        "weight": 600,
+        "style": "normal"
+      },
+      "weight": 600,
+      "style": "normal",
+      "cssFamily": "HistoryHeading0",
+      "faces": [
+        {
+          "id": "glow-compressed-medium",
+          "family": "Glow Sans SC Compressed Medium",
+          "postscriptName": "GlowSansSC-Compressed-Medium",
+          "subfamily": "Regular",
+          "weight": 600,
+          "cssWeight": 600,
+          "style": "normal",
+          "axes": {},
+          "font": {
+            "path": "fonts/b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d.otf",
+            "sha256": "b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d"
+          },
+          "licenses": [
+            {
+              "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-0.txt",
+              "sha256": "294348a0b170240633883e62548c2d3bc76306a5571a5235b2e407e0ace3b232",
+              "url": "https://github.com/welai/glow-sans/blob/v0.93/OFL.txt"
+            },
+            {
+              "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-1.txt",
+              "sha256": "7cf5df935f91e8f66702b23ea9cc4607b618741109a44fffdc16b489c7e7cdc4",
+              "url": "https://github.com/welai/glow-sans/blob/v0.93/LICENSE"
+            },
+            {
+              "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-2.txt",
+              "sha256": "5f87dc218c57dbb319a8d3ebf0d47354aea2d6e84f0915323d1f5c1dfa40a492",
+              "url": "https://github.com/welai/glow-sans/blob/v0.93/README.md"
+            }
+          ],
+          "source": {
+            "url": "https://github.com/welai/glow-sans/releases/download/v0.93/GlowSansSC-Compressed-v0.93.zip",
+            "version": "v0.93",
+            "repository": "https://github.com/welai/glow-sans"
+          },
+          "cssFamily": "HistoryHeading0"
+        }
+      ]
+    },
+    "body": {
+      "id": "ibm-plex-sc-text",
+      "native": {
+        "font": {
+          "path": "fonts/1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089.woff2",
+          "sha256": "1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089"
+        },
+        "weight": 450,
+        "style": "normal"
+      },
+      "weight": 450,
+      "style": "normal",
+      "cssFamily": "HistoryBody0",
+      "faces": [
+        {
+          "id": "ibm-plex-sc-text",
+          "family": "IBM Plex Sans SC Text",
+          "postscriptName": "IBMPlexSansSC-Text",
+          "subfamily": "Regular",
+          "weight": 450,
+          "cssWeight": 450,
+          "style": "normal",
+          "axes": {},
+          "font": {
+            "path": "fonts/1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089.woff2",
+            "sha256": "1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089"
+          },
+          "licenses": [
+            {
+              "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-0.txt",
+              "sha256": "91c25c350d3cac39da2736d74f7ba37ef648f5237a4e330a240615bc8d8c4360",
+              "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/fonts/complete/woff2/hinted/license.txt"
+            },
+            {
+              "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-1.txt",
+              "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+              "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/LICENSE.txt"
+            },
+            {
+              "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-2.txt",
+              "sha256": "bf08e8077fa417a893546920507a982974e069a46767400a50752715adc57834",
+              "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/README.md"
+            }
+          ],
+          "source": {
+            "url": "https://raw.githubusercontent.com/IBM/plex/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/fonts/complete/woff2/hinted/IBMPlexSansSC-Text.woff2",
+            "version": "763c36ef9117782905ae010056dfbe8fd2653a25",
+            "repository": "https://github.com/IBM/plex"
+          },
+          "cssFamily": "HistoryBody0"
+        }
+      ]
+    }
+  }
+}

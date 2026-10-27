@@ -1,0 +1,660 @@
+{
+  "media": [
+    {
+      "id": "dario-2023",
+      "kind": "portrait",
+      "title": "Dario Amodei 在 TechCrunch Disrupt",
+      "subject": "Anthropic 联合创始人兼首席执行官 Dario Amodei",
+      "createdDate": "2023 年 9 月 20 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Kimberly White / Getty Images for TechCrunch；由 TechCrunch 发布",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_02.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Dario Amodei 在旧金山参加 TechCrunch Disrupt 2023。照片摄于本次上市申请之前。",
+      "derivation": "使用 Commons 收录原图，未自行裁切或修饰",
+      "evidenceLimit": "这张活动照片用于辨认人物，不是提交上市申请现场。",
+      "width": 2667,
+      "height": 4000,
+      "reviewStatus": "已核对人物、拍摄日期和 Commons 的 Flickr 许可复核记录；图像元数据署名包含 Getty Images。",
+      "file": {
+        "path": "media/dario-2023.jpg",
+        "sha256": "bfa136c782658fcff6cce392f17425f84b3c078cd3fbea925cdc02318e947e96"
+      }
+    },
+    {
+      "id": "nasdaq-2021",
+      "kind": "photo",
+      "title": "纽约纳斯达克 MarketSite",
+      "subject": "纽约时代广场的 Nasdaq MarketSite",
+      "createdDate": "2021 年 9 月 19 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "ajay_suresh",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "时代广场的 Nasdaq MarketSite，摄于 2021 年；用于说明公司拟申请挂牌的市场背景。",
+      "derivation": "使用 Commons 收录原图，未自行裁切或修饰",
+      "evidenceLimit": "摄于 2021 年，仅作市场地点背景。",
+      "width": 3731,
+      "height": 3731,
+      "reviewStatus": "已核对地点、拍摄日期和 Commons 的 Flickr 许可复核记录。",
+      "file": {
+        "path": "media/nasdaq-2021.jpg",
+        "sha256": "3283a8d3d903d9bc36b7fdf8df46ff163dd5da594e30acbb078d49142ab366b1"
+      }
+    },
+    {
+      "id": "illustration-growth",
+      "kind": "document",
+      "title": "收入增长：六个季度",
+      "subject": "2025 年第一季度至 2026 年第二季度的季度收入，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "2025 年第一季度至 2026 年第二季度的季度收入，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Quarterly Results of Operations，PDF 第 168 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-growth.png",
+        "sha256": "df62a735ae899ad96a93b25a412aed8284a999114b099623acd02d037c986507"
+      }
+    },
+    {
+      "id": "illustration-loss",
+      "kind": "document",
+      "title": "上半年净亏损及公允价值费用",
+      "subject": "2026 年上半年净亏损与其中的公允价值变动费用，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "2026 年上半年净亏损与其中的公允价值变动费用，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Summary Consolidated Financial and Other Data，PDF 第 33 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-loss.png",
+        "sha256": "3d434980985ec05e60aa7bc9df8ff046635f52c63b01138997088410e81fec32"
+      }
+    },
+    {
+      "id": "illustration-compute",
+      "kind": "document",
+      "title": "长期算力合同",
+      "subject": "四家基础设施供应商的承诺或上限，单位亿美元。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依公开 S-1 自制图表",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图表；底层数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "四家基础设施供应商的承诺或上限，单位亿美元。",
+      "derivation": "根据 S-1 数值与口径重新绘制；非原始财务报表截图",
+      "evidenceLimit": "Infrastructure Service Arrangements，PDF 第 181—182 页",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "已对照 S-1 数值、单位及期间。",
+      "file": {
+        "path": "media/illustration-compute.png",
+        "sha256": "0081b2a9a080bd3a974649f7976963ba3c6ecd3113f13f3996a66e35885a08e1"
+      }
+    },
+    {
+      "id": "bartz-portrait",
+      "kind": "portrait",
+      "title": "Andrea Bartz 在书展",
+      "subject": "作家 Andrea Bartz",
+      "createdDate": "2023 年 5 月",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Frypie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Andrea_Bartz._5204100.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Andrea Bartz 在 2023 年 Gaithersburg Book Festival 的活动照片。",
+      "derivation": "保留下载原图，未重新裁切",
+      "evidenceLimit": "拍摄于诉讼之前，用于辨认人物。",
+      "width": 2606,
+      "height": 2794,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/bartz-portrait.jpg",
+        "sha256": "cfce65d4c39318b2e7161437f0b2479a933ca6ac33c0a354e86ce62bbc94eda6"
+      }
+    },
+    {
+      "id": "bartz-book",
+      "kind": "document",
+      "title": "《The Herd》封面",
+      "subject": "Andrea Bartz 的小说 The Herd",
+      "createdDate": "2020 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "封面版权归相关权利人；作者 Andrea Bartz",
+      "sourceUrl": "https://www.andreabartz.com/contact/press-materials/",
+      "license": "作者官网提供媒体封面；本地解释使用，后续公开和离线分发范围待核",
+      "licenseUrl": "https://www.andreabartz.com/contact/press-materials/",
+      "caption": "《The Herd》是 Andrea Bartz 的作品之一；封面来自作者官网媒体资料。",
+      "derivation": "原样使用作者官网提供的封面文件",
+      "evidenceLimit": "仅用于介绍作者作品，不据此断言该具体书名属于诉讼和解名单。",
+      "width": 1875,
+      "height": 2850,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/bartz-book.jpg",
+        "sha256": "8d6b207311639da33521f3124887ab114ec8b1b08a577e505154554a37ccde3d"
+      }
+    },
+    {
+      "id": "anthropic-building",
+      "kind": "photo",
+      "title": "500 Howard Street 办公楼",
+      "subject": "旧金山 500 Howard Street",
+      "createdDate": "2020 年 1 月 3 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "HaeB",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slack_offices,_Howard_Street,_San_Francisco_(viewed_from_the_south-west,_January_2020).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Anthropic 后来使用的 500 Howard Street；照片拍摄时为 Slack 办公楼。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "拍摄于 Anthropic 入驻之前；不反映 2026 年办公室内部。",
+      "width": 2865,
+      "height": 2952,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/anthropic-building.jpg",
+        "sha256": "6f468d8bd885b43c04ad2353587bccc1a8d3143ac775aab3fb8ed9d6ff0c5274"
+      }
+    },
+    {
+      "id": "google-center",
+      "kind": "photo",
+      "title": "Google 数据中心",
+      "subject": "Google 位于俄勒冈州 The Dalles 的数据中心",
+      "createdDate": "2020 年 6 月 23 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Lambtron",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_data_center.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Google 的 The Dalles 数据中心外观。Google 是文中讨论的基础设施供应商之一。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "不代表该具体设施用于 Anthropic 合同。",
+      "width": 3296,
+      "height": 2408,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/google-center.jpg",
+        "sha256": "9e82dd87908002c82c100178b5ccb22494e5c3cad941f85b2febb7aba59b6079"
+      }
+    },
+    {
+      "id": "amazon-office",
+      "kind": "photo",
+      "title": "Amazon Spheres",
+      "subject": "西雅图亚马逊总部园区 Amazon Spheres",
+      "createdDate": "2018 年 10 月 21 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Joe Mabel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Amazon 西雅图总部园区的 Spheres，摄于 2018 年。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "公司办公园区，并非本次算力合同设施。",
+      "width": 4288,
+      "height": 2848,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/amazon-office.jpg",
+        "sha256": "52aa7154737e6555f3bf6d773e673d60dcdecf61fa9476ac501d94f3316ca5e4"
+      }
+    },
+    {
+      "id": "microsoft-office",
+      "kind": "photo",
+      "title": "Microsoft Redmond 园区",
+      "subject": "微软 Redmond 园区 92 号楼",
+      "createdDate": "2015 年 6 月 18 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Jiaqian AirplaneFan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "caption": "微软 Redmond 园区 92 号楼，摄于 2015 年。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "公司园区，并非本次算力合同设施。",
+      "width": 4912,
+      "height": 3264,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/microsoft-office.jpg",
+        "sha256": "ae5ece5124d112d72b6965506111a2628fb97de13515d6732727918e310ffa8a"
+      }
+    },
+    {
+      "id": "spacex-office",
+      "kind": "photo",
+      "title": "SpaceX Hawthorne 设施",
+      "subject": "SpaceX 位于加州 Hawthorne 的办公与工厂设施",
+      "createdDate": "2012 年 9 月 28 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "SpaceX",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_Headquarters,_Hawthorne,_CA.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "caption": "SpaceX 的 Hawthorne 设施，摄于 2012 年；S-1 所列供应商 SpaceX.AI 是其子公司。",
+      "derivation": "使用 Commons 原图",
+      "evidenceLimit": "并非 S-1 合同所指数据中心。",
+      "width": 5616,
+      "height": 3744,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/spacex-office.jpg",
+        "sha256": "c4e641c28cf07515e2f2f62ce46d1473d4ca2ade042419e53b1e8620009118d1"
+      }
+    },
+    {
+      "id": "anthropic-mark",
+      "kind": "document",
+      "title": "Anthropic 标识",
+      "subject": "Anthropic 品牌标识",
+      "createdDate": "2023 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Anthropic_logo.svg",
+      "caption": "用于识别 Anthropic；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 108,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/anthropic-mark.png",
+        "sha256": "6bb5fed8207392b25cfef4c0019e0d0b2d25427ad4e3a298e0ca5fae62253500"
+      }
+    },
+    {
+      "id": "claude-mark",
+      "kind": "document",
+      "title": "Claude 标识",
+      "subject": "Claude 品牌标识",
+      "createdDate": "2024 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Claude_AI_logo.png",
+      "caption": "用于识别 Claude；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 482,
+      "height": 104,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/claude-mark.png",
+        "sha256": "fb5b1700cbfaae44e4d1050c3df83aac3e2d21ad8ee196393188b52e835b03a0"
+      }
+    },
+    {
+      "id": "google-mark",
+      "kind": "document",
+      "title": "Google 标识",
+      "subject": "Google 品牌标识",
+      "createdDate": "2026 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Google LLC",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Google_2026_logo.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Google_2026_logo.svg",
+      "caption": "用于识别 Google；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 291,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/google-mark.png",
+        "sha256": "2e7e69174c100ad8f37c2d134d16cdf522576aca544c84c401f3e48a09d80070"
+      }
+    },
+    {
+      "id": "aws-mark",
+      "kind": "document",
+      "title": "Amazon Web Services 标识",
+      "subject": "Amazon Web Services 品牌标识",
+      "createdDate": "2017 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Amazon Web Services",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg",
+      "license": "Apache 2.0；商标权另计",
+      "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+      "caption": "用于识别 Amazon Web Services；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 960,
+      "height": 575,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/aws-mark.png",
+        "sha256": "879c48bdd27c82829d7fe572fab9ba49ecbead4dd6d7e2cf8ef5abfced572150"
+      }
+    },
+    {
+      "id": "microsoft-mark",
+      "kind": "document",
+      "title": "Microsoft 标识",
+      "subject": "Microsoft 品牌标识",
+      "createdDate": "2012 年标识",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Microsoft",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_2012.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_2012.png",
+      "caption": "用于识别 Microsoft；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 640,
+      "height": 137,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/microsoft-mark.png",
+        "sha256": "e57dadf4a7b806d2357c624b252aa46c02e00b01200bc0751d165b8f9c8d06e6"
+      }
+    },
+    {
+      "id": "spacex-mark",
+      "kind": "document",
+      "title": "SpaceX 标识",
+      "subject": "SpaceX 品牌标识",
+      "createdDate": "2014 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "SpaceX",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_logo.png",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:SpaceX_logo.png",
+      "caption": "用于识别 SpaceX；相关商标属于各自权利人。",
+      "derivation": "使用 Commons 收录的 PNG 或 SVG 转换预览",
+      "evidenceLimit": "作为品牌识别，不表示公司参与或认可本作品。",
+      "width": 512,
+      "height": 53,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/spacex-mark.png",
+        "sha256": "6b51601fcb38733b6a2b4a5fbe92720971eafc78bd77486c85acd46365ab912a"
+      }
+    },
+    {
+      "id": "diagram-governance",
+      "kind": "document",
+      "title": "创始人与长期利益信托",
+      "subject": "说明 F 类和 T 类股份对应的不同治理权利。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "说明 F 类和 T 类股份对应的不同治理权利。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-governance.png",
+        "sha256": "de9076da6de21801b026882f52e1c71deb7f7653af9f814937c88a2bc41684a9"
+      }
+    },
+    {
+      "id": "diagram-benefit",
+      "kind": "document",
+      "title": "公益基金股份安排",
+      "subject": "说明 S-1 披露的初始股份和董事会追加机制。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "说明 S-1 披露的初始股份和董事会追加机制。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-benefit.png",
+        "sha256": "4323b67d2e6377fbc7bf54bea5f7e9d76912a596209e206586472c4cd3b76d6e"
+      }
+    },
+    {
+      "id": "diagram-outlook",
+      "kind": "document",
+      "title": "理解公司的四个角度",
+      "subject": "将客户需求、融资、算力和治理作为阅读线索。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "将客户需求、融资、算力和治理作为阅读线索。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-outlook.png",
+        "sha256": "72ad7733b6b5f02da9b49e587fac338f7bdc3f4b991b9e9be6bc82bc7547aef5"
+      }
+    },
+    {
+      "id": "diagram-customers",
+      "kind": "document",
+      "title": "客户指标",
+      "subject": "按公司披露口径展示净收入留存率与违规使用收入估计。",
+      "createdDate": "2026 年 10 月 27 日",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "本作品依 S-1 自制说明图",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "license": "本作品自制图版；数据引自 S-1",
+      "licenseUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "caption": "按公司披露口径展示净收入留存率与违规使用收入估计。",
+      "derivation": "据 S-1 的数值和说明重新绘制",
+      "evidenceLimit": "作者设计的说明图，不是原始文件图像。",
+      "width": 1600,
+      "height": 900,
+      "reviewStatus": "来源、身份、日期及标明的使用条件已核对。",
+      "file": {
+        "path": "media/diagram-customers.png",
+        "sha256": "2d25e53ab1830952cdb4ada5e6b3e18251213461c5da80ede5e340da193b8635"
+      }
+    },
+    {
+      "id": "daniela-portrait",
+      "kind": "portrait",
+      "title": "Daniela Amodei 官方肖像",
+      "subject": "Anthropic 联合创始人、总裁及董事会主席 Daniela Amodei",
+      "createdDate": "拍摄日期未公开",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Anthropic 官网；摄影作者未注明",
+      "sourceUrl": "https://www.anthropic.com/company/leadership",
+      "license": "官网肖像供本地解释识别；公开使用许可未核实",
+      "licenseUrl": "https://www.anthropic.com/company/leadership",
+      "caption": "Anthropic 官网公布的 Daniela Amodei 肖像。",
+      "derivation": "原样保存官网公开图片，未做裁切或加工",
+      "evidenceLimit": "拍摄日期未公开；离线传播、公开发布或商业用途前须核实许可。",
+      "width": 640,
+      "height": 800,
+      "reviewStatus": "已核对官网身份；公开复用许可未核实。",
+      "file": {
+        "path": "media/daniela-portrait.webp",
+        "sha256": "3ae873c2076d65d5bf2085c386f810c49018a481d26696463512e726a22a3df0"
+      }
+    },
+    {
+      "id": "amazon-mark",
+      "kind": "document",
+      "title": "Amazon 标识",
+      "subject": "Amazon 公司标识",
+      "createdDate": "2024 年",
+      "eventDate": "2026 年 10 月 26 日",
+      "creator": "Amazon.com, Inc.、Koto 和 NaN",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+      "license": "Commons 标注文字标识；商标权另计",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+      "caption": "Amazon 公司标识，用于识别供应商。",
+      "derivation": "使用 Commons SVG 渲染的 PNG 预览",
+      "evidenceLimit": "用于识别，不代表公司认可本作品。",
+      "width": 960,
+      "height": 322,
+      "file": {
+        "path": "media/amazon-mark.png",
+        "sha256": "116adc22d42205bab6b9662b712ce7eae41806501394d4234838f5f2b35bbee6"
+      }
+    }
+  ],
+  "audio": [
+    {
+      "id": "full-narration-v4",
+      "sha256": "160b4fb304c74c1a68c5282345bda01b914d2598abd5ec69823a92543ffdd697",
+      "provenance": {
+        "source": "MiniMax 国际站，为本作品旁白生成",
+        "license": "用户授权本作品使用的合成配音；服务条款与公开分发范围另核"
+      }
+    }
+  ],
+  "fonts": {
+    "schemaVersion": 1,
+    "preset": "foreign-contemporary",
+    "catalogSha256": "8b20d595615809ea6bb025c213af4072a87831da4ad39d9d77dab55dd35500d2",
+    "nativeSelectionSha256": "e2c03647c8b292e67a902a1f1022efd947f46050cc5f7e4865b6cf994eb6c1b4",
+    "roles": {
+      "heading": {
+        "id": "glow-compressed-medium",
+        "native": {
+          "font": {
+            "path": "fonts/b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d.otf",
+            "sha256": "b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d"
+          },
+          "weight": 600,
+          "style": "normal"
+        },
+        "weight": 600,
+        "style": "normal",
+        "cssFamily": "HistoryHeading0",
+        "faces": [
+          {
+            "id": "glow-compressed-medium",
+            "family": "Glow Sans SC Compressed Medium",
+            "postscriptName": "GlowSansSC-Compressed-Medium",
+            "subfamily": "Regular",
+            "weight": 600,
+            "cssWeight": 600,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d.otf",
+              "sha256": "b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-0.txt",
+                "sha256": "294348a0b170240633883e62548c2d3bc76306a5571a5235b2e407e0ace3b232",
+                "url": "https://github.com/welai/glow-sans/blob/v0.93/OFL.txt"
+              },
+              {
+                "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-1.txt",
+                "sha256": "7cf5df935f91e8f66702b23ea9cc4607b618741109a44fffdc16b489c7e7cdc4",
+                "url": "https://github.com/welai/glow-sans/blob/v0.93/LICENSE"
+              },
+              {
+                "path": "licenses/font-b8b0c8b1e7f8976c7adc6a3566c90391345673499d167a02997c4c5b43ce392d-2.txt",
+                "sha256": "5f87dc218c57dbb319a8d3ebf0d47354aea2d6e84f0915323d1f5c1dfa40a492",
+                "url": "https://github.com/welai/glow-sans/blob/v0.93/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://github.com/welai/glow-sans/releases/download/v0.93/GlowSansSC-Compressed-v0.93.zip",
+              "version": "v0.93",
+              "repository": "https://github.com/welai/glow-sans"
+            },
+            "cssFamily": "HistoryHeading0"
+          }
+        ]
+      },
+      "body": {
+        "id": "ibm-plex-sc-text",
+        "native": {
+          "font": {
+            "path": "fonts/1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089.woff2",
+            "sha256": "1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089"
+          },
+          "weight": 450,
+          "style": "normal"
+        },
+        "weight": 450,
+        "style": "normal",
+        "cssFamily": "HistoryBody0",
+        "faces": [
+          {
+            "id": "ibm-plex-sc-text",
+            "family": "IBM Plex Sans SC Text",
+            "postscriptName": "IBMPlexSansSC-Text",
+            "subfamily": "Regular",
+            "weight": 450,
+            "cssWeight": 450,
+            "style": "normal",
+            "axes": {},
+            "font": {
+              "path": "fonts/1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089.woff2",
+              "sha256": "1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089"
+            },
+            "licenses": [
+              {
+                "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-0.txt",
+                "sha256": "91c25c350d3cac39da2736d74f7ba37ef648f5237a4e330a240615bc8d8c4360",
+                "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/fonts/complete/woff2/hinted/license.txt"
+              },
+              {
+                "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-1.txt",
+                "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da",
+                "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/LICENSE.txt"
+              },
+              {
+                "path": "licenses/font-1b27447b0022d243d0c0144c9e4fb40106aa10ec3deb21035de62aca6af01089-2.txt",
+                "sha256": "bf08e8077fa417a893546920507a982974e069a46767400a50752715adc57834",
+                "url": "https://github.com/IBM/plex/blob/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/README.md"
+              }
+            ],
+            "source": {
+              "url": "https://raw.githubusercontent.com/IBM/plex/763c36ef9117782905ae010056dfbe8fd2653a25/packages/plex-sans-sc/fonts/complete/woff2/hinted/IBMPlexSansSC-Text.woff2",
+              "version": "763c36ef9117782905ae010056dfbe8fd2653a25",
+              "repository": "https://github.com/IBM/plex"
+            },
+            "cssFamily": "HistoryBody0"
+          }
+        ]
+      }
+    }
+  },
+  "nativeLicenses": [
+    "licenses/Huashu-MIT.txt",
+    "licenses/Noto-OFL.txt",
+    "licenses/GSAP-NOTICE.txt"
+  ]
+}

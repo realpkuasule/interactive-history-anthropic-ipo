@@ -1,0 +1,2332 @@
+{
+  "parameterOrigin": "reconstructed_design",
+  "intent": "script_redesign",
+  "output": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  },
+  "style": {
+    "rationale": "2026 年美国科技、金融和版权议题，采用浅色纸面、炭黑正文和赤陶色重点，结合真实照片与简洁财务图。",
+    "background": "#f5f2ec",
+    "ink": "#222b30",
+    "accent": "#b55c40",
+    "secondary": "#53656a",
+    "motif": "archive",
+    "card": {
+      "fill": "#fffdf8",
+      "ink": "#25363b",
+      "muted": "#4d6267",
+      "edge": "#607478",
+      "rule": "#c7d0ca",
+      "shadow": "#d5d9d4"
+    }
+  },
+  "frames": 13849,
+  "shots": [
+    {
+      "id": "user-opening",
+      "nodeId": "filing",
+      "durationFrames": 377,
+      "purpose": "以用户指定原文开始视频；声明真实性尚待核验，用户文字先按原文呈现。",
+      "narration": "声明：本视频完全没有使用A畜的产品制作。大家好！A畜终于提交上市申请了，我整理了10条相关的关键信息，以方便你有理有据地骂A畜",
+      "captions": [
+        {
+          "text": "声明：本视频完全没有使用A畜的产品制作。大家好！",
+          "startFrame": 3,
+          "endFrame": 143
+        },
+        {
+          "text": "A畜终于提交上市申请了，",
+          "startFrame": 150,
+          "endFrame": 203
+        },
+        {
+          "text": "我整理了10条相关的关键信息，",
+          "startFrame": 215,
+          "endFrame": 278
+        },
+        {
+          "text": "以方便你有理有据地骂A畜",
+          "startFrame": 286,
+          "endFrame": 363
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "opening",
+            "label": "声明",
+            "detail": "10 条相关的关键信息",
+            "position": [
+              0.5,
+              0.38
+            ],
+            "width": 0.58,
+            "height": 0.21
+          }
+        ],
+        "legend": "开场"
+      },
+      "startFrame": 0,
+      "endFrame": 377
+    },
+    {
+      "id": "section-01",
+      "nodeId": "filing",
+      "durationFrames": 66,
+      "purpose": "显示第 01 节标题。",
+      "captions": [
+        {
+          "text": "第 1 节：上市申请。",
+          "startFrame": 0,
+          "endFrame": 44
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "01 / 上市申请",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 1 节：上市申请。",
+      "startFrame": 377,
+      "endFrame": 443
+    },
+    {
+      "id": "ipo-intro",
+      "nodeId": "filing",
+      "durationFrames": 459,
+      "purpose": "介绍创始人及已提交 S-1 的事实，强调时间和拟议上市身份。",
+      "captions": [
+        {
+          "text": "2026 年 10 月，",
+          "startFrame": 0,
+          "endFrame": 23
+        },
+        {
+          "text": "Anthropic 提交上市申请，",
+          "startFrame": 40,
+          "endFrame": 88
+        },
+        {
+          "text": "计划在纳斯达克用 ANT 代码挂牌。",
+          "startFrame": 99,
+          "endFrame": 174
+        },
+        {
+          "text": "对普通用户来说，这意味着这家做 Claude 的公司，",
+          "startFrame": 189,
+          "endFrame": 277
+        },
+        {
+          "text": "要把更多经营细节摆到台面上了。",
+          "startFrame": 277,
+          "endFrame": 363
+        },
+        {
+          "text": "看看它一边怎么讲安全，一边怎么做生意。",
+          "startFrame": 367,
+          "endFrame": 446
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "company",
+            "label": "Anthropic",
+            "detail": "2021 年成立",
+            "position": [
+              0.69,
+              0.29
+            ],
+            "width": 0.34,
+            "height": 0.19
+          },
+          {
+            "id": "filing",
+            "label": "提交 S-1",
+            "detail": "2026 年 10 月 26 日",
+            "position": [
+              0.69,
+              0.53
+            ],
+            "width": 0.34,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "dario-2023",
+            "x": 0.05,
+            "y": 0.16,
+            "width": 0.2,
+            "height": 0.43,
+            "caption": "Dario · 2023",
+            "focusZoom": 1.02
+          },
+          {
+            "mediaId": "daniela-portrait",
+            "x": 0.28,
+            "y": 0.16,
+            "width": 0.2,
+            "height": 0.43,
+            "caption": "Daniela · 日期未公开",
+            "focusZoom": 1.02
+          }
+        ],
+        "imageCredit": "Dario: TechCrunch / Kimberly White, CC BY 2.0 · Daniela: Anthropic 官网",
+        "legend": "人物照片为不同时间拍摄；图片来源见资料说明。"
+      },
+      "narration": "2026 年 10 月，Anthropic 提交上市申请，计划在纳斯达克用 ANT 代码挂牌。对普通用户来说，这意味着这家做 Claude 的公司，要把更多经营细节摆到台面上了。看看它一边怎么讲安全，一边怎么做生意。",
+      "startFrame": 443,
+      "endFrame": 902
+    },
+    {
+      "id": "policy-critique",
+      "nodeId": "filing",
+      "durationFrames": 530,
+      "purpose": "以明确观点讽刺创始人对华技术限制立场，区分种族和政策。",
+      "narration": "比如创始人 Dario 公开主张限制向中国出售先进芯片。对中国用户来说，这关系到你能接触到什么技术。公司当然可以谈安全，但把安全和技术竞争放在一张桌上谈，就别指望大家只听见安全两个字。",
+      "captions": [
+        {
+          "text": "比如创始人 Dario 公开主张限制向中国出售先进芯片。",
+          "startFrame": 0,
+          "endFrame": 135
+        },
+        {
+          "text": "对中国用户来说，这关系到你能接触到什么技术。",
+          "startFrame": 157,
+          "endFrame": 260
+        },
+        {
+          "text": "公司当然可以谈安全，但把安全和技术竞争放在一张桌上谈，",
+          "startFrame": 277,
+          "endFrame": 425
+        },
+        {
+          "text": "就别指望大家只听见安全两个字。",
+          "startFrame": 436,
+          "endFrame": 517
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "policy",
+            "label": "安全与竞争",
+            "detail": "对华芯片限制",
+            "position": [
+              0.7,
+              0.34
+            ],
+            "width": 0.34,
+            "height": 0.2
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "dario-2023",
+            "x": 0.14,
+            "y": 0.17,
+            "width": 0.28,
+            "height": 0.42,
+            "caption": "Dario · 2023",
+            "focusZoom": 1.02
+          }
+        ],
+        "legend": "这是对公开政策立场的评论。",
+        "imageCredit": "Dario: TechCrunch / Kimberly White, CC BY 2.0"
+      },
+      "startFrame": 902,
+      "endFrame": 1432
+    },
+    {
+      "id": "section-02",
+      "nodeId": "growth",
+      "durationFrames": 64,
+      "purpose": "显示第 02 节标题。",
+      "captions": [
+        {
+          "text": "第 2 节：收入与增长。",
+          "startFrame": 0,
+          "endFrame": 54
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "02 / 收入与增长",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 2 节：收入与增长。",
+      "startFrame": 1432,
+      "endFrame": 1496
+    },
+    {
+      "id": "growth-annual",
+      "nodeId": "growth",
+      "durationFrames": 423,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "先看它赚钱有多快。2023 年收入 4,100 万美元，2025 年到了 45.85 亿美元，2026 年第二季度就有 115.55 亿美元。你可能还在琢磨订阅值不值，它那边的生意已经跑得飞快。",
+      "captions": [
+        {
+          "text": "先看它赚钱有多快。2023 年收入 4,100 万美元，",
+          "startFrame": 0,
+          "endFrame": 113
+        },
+        {
+          "text": "2025 年到了 45.85 亿美元，",
+          "startFrame": 125,
+          "endFrame": 188
+        },
+        {
+          "text": "2026 年第二季度就有 115.55 亿美元。",
+          "startFrame": 206,
+          "endFrame": 295
+        },
+        {
+          "text": "你可能还在琢磨订阅值不值，",
+          "startFrame": 306,
+          "endFrame": 355
+        },
+        {
+          "text": "它那边的生意已经跑得飞快。",
+          "startFrame": 366,
+          "endFrame": 412
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "2023 年",
+            "detail": "4,100 万美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "2025 年",
+            "detail": "45.85 亿美元",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "illustration-growth",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "季度收入 · 单位：亿美元",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "年度与季度口径不同；数据引自 S-1。"
+      },
+      "startFrame": 1496,
+      "endFrame": 1919
+    },
+    {
+      "id": "growth-cost",
+      "nodeId": "growth",
+      "durationFrames": 697,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "赚钱快，花钱也猛。2026 年第二季度，算力和基础设施费用 55.58 亿美元，收入约是这笔费用的 2.08 倍，营业利润 9.74 亿美元。不过算力不是全部成本，不能把这个比例当利润率。对用户来说，成本压力值得关注，但不能凭这组数字断言它一定涨价。",
+      "captions": [
+        {
+          "text": "赚钱快，花钱也猛。2026 年第二季度，",
+          "startFrame": 0,
+          "endFrame": 108
+        },
+        {
+          "text": "算力和基础设施费用 55.58 亿美元，",
+          "startFrame": 118,
+          "endFrame": 216
+        },
+        {
+          "text": "收入约是这笔费用的 2.08 倍，",
+          "startFrame": 229,
+          "endFrame": 306
+        },
+        {
+          "text": "营业利润 9.74 亿美元。",
+          "startFrame": 317,
+          "endFrame": 385
+        },
+        {
+          "text": "不过算力不是全部成本，不能把这个比例当利润率。对用户来说，",
+          "startFrame": 397,
+          "endFrame": 538
+        },
+        {
+          "text": "成本压力值得关注，但不能凭这组数字断言它一定涨价。",
+          "startFrame": 547,
+          "endFrame": 688
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "算力费用",
+            "detail": "55.58 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "营业利润",
+            "detail": "9.74 亿美元",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "illustration-growth",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "季度收入变化",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "季度收入／算力费用不是毛利率。"
+      },
+      "startFrame": 1919,
+      "endFrame": 2616
+    },
+    {
+      "id": "section-03",
+      "nodeId": "loss",
+      "durationFrames": 86,
+      "purpose": "显示第 03 节标题。",
+      "captions": [
+        {
+          "text": "第 3 节：亏损与会计。",
+          "startFrame": 0,
+          "endFrame": 74
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "03 / 亏损与会计",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 3 节：亏损与会计。",
+      "startFrame": 2616,
+      "endFrame": 2702
+    },
+    {
+      "id": "revenue-loss",
+      "nodeId": "loss",
+      "durationFrames": 375,
+      "purpose": "以准确对比解释净亏损与其中公允价值变动费用，区分数值口径。",
+      "captions": [
+        {
+          "text": "接下来的数字看着吓人：2026 年上半年净亏损 807.48 亿美元。",
+          "startFrame": 0,
+          "endFrame": 180
+        },
+        {
+          "text": "其中大约 723.88 亿，",
+          "startFrame": 192,
+          "endFrame": 266
+        },
+        {
+          "text": "是融资工具价值变动带来的会计费用。",
+          "startFrame": 266,
+          "endFrame": 362
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "netloss",
+            "label": "净亏损",
+            "detail": "807.48 亿美元",
+            "position": [
+              0.8,
+              0.28
+            ],
+            "width": 0.25,
+            "height": 0.19
+          },
+          {
+            "id": "valuation",
+            "label": "公允价值变动",
+            "detail": "723.88 亿美元",
+            "position": [
+              0.8,
+              0.52
+            ],
+            "width": 0.25,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "illustration-loss",
+            "x": 0.04,
+            "y": 0.17,
+            "width": 0.59,
+            "height": 0.44,
+            "caption": "2026 上半年 · 单位：亿美元",
+            "focusZoom": 1.01
+          }
+        ],
+        "legend": "公允价值变动是净亏损中的项目。",
+        "imageCredit": "图表：根据 Anthropic S-1 第 22 页自制"
+      },
+      "narration": "接下来的数字看着吓人：2026 年上半年净亏损 807.48 亿美元。其中大约 723.88 亿，是融资工具价值变动带来的会计费用。",
+      "startFrame": 2702,
+      "endFrame": 3077
+    },
+    {
+      "id": "loss-context",
+      "nodeId": "loss",
+      "durationFrames": 592,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "说人话，就是账上有一大笔变化，不等于公司当天真拿现金付出这么多。公司另披露调整后净利润 26.71 亿美元，口径不同，别拿来直接相减。普通用户不用替它做会计，但看到亏损天文数字，也不用立刻以为 Claude 明天就要关门。",
+      "captions": [
+        {
+          "text": "说人话，就是账上有一大笔变化，",
+          "startFrame": 0,
+          "endFrame": 89
+        },
+        {
+          "text": "不等于公司当天真拿现金付出这么多。",
+          "startFrame": 102,
+          "endFrame": 169
+        },
+        {
+          "text": "公司另披露调整后净利润 26.71 亿美元，口径不同，",
+          "startFrame": 189,
+          "endFrame": 342
+        },
+        {
+          "text": "别拿来直接相减。普通用户不用替它做会计，",
+          "startFrame": 349,
+          "endFrame": 447
+        },
+        {
+          "text": "但看到亏损天文数字，也不用立刻以为 Claude 明天就要关门。",
+          "startFrame": 457,
+          "endFrame": 576
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "公允价值",
+            "detail": "723.88 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "调整后净利润",
+            "detail": "26.71 亿美元",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "illustration-loss",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "净亏损与其中的公允价值费用",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "调整后净利润为公司披露的非 GAAP 指标。"
+      },
+      "startFrame": 3077,
+      "endFrame": 3669
+    },
+    {
+      "id": "section-04",
+      "nodeId": "copyright",
+      "durationFrames": 82,
+      "purpose": "显示第 04 节标题。",
+      "captions": [
+        {
+          "text": "第 4 节：Bartz 版权案。",
+          "startFrame": 0,
+          "endFrame": 69
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "04 / Bartz 版权案",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 4 节：Bartz 版权案。",
+      "startFrame": 3669,
+      "endFrame": 3751
+    },
+    {
+      "id": "bartz-case",
+      "nodeId": "copyright",
+      "durationFrames": 508,
+      "purpose": "通过真实作家和作品呈现诉讼及和解，并保留作品不等同具体和解名单的界限。",
+      "captions": [
+        {
+          "text": "如果你写文章、画画、出书，",
+          "startFrame": 0,
+          "endFrame": 85
+        },
+        {
+          "text": "这一条尤其值得听。2024 年，",
+          "startFrame": 98,
+          "endFrame": 175
+        },
+        {
+          "text": "作家 Andrea Bartz 等人起诉 Anthropic，",
+          "startFrame": 185,
+          "endFrame": 298
+        },
+        {
+          "text": "争议涉及作品被用于训练。",
+          "startFrame": 308,
+          "endFrame": 362
+        },
+        {
+          "text": "2026 年 7 月，法院最终批准了 15 亿美元的集体和解。",
+          "startFrame": 379,
+          "endFrame": 492
+        }
+      ],
+      "visual": {
+        "kind": "sequence",
+        "items": [
+          {
+            "id": "claim",
+            "label": "2024 年",
+            "detail": "作者提起诉讼",
+            "position": [
+              0.7,
+              0.28
+            ],
+            "width": 0.32,
+            "height": 0.19
+          },
+          {
+            "id": "settlement",
+            "label": "2026 年 7 月",
+            "detail": "集体和解获最终批准",
+            "position": [
+              0.7,
+              0.52
+            ],
+            "width": 0.32,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "bartz-portrait",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.2,
+            "height": 0.4,
+            "caption": "Andrea Bartz · 2023",
+            "focusZoom": 1.02
+          },
+          {
+            "mediaId": "bartz-book",
+            "x": 0.28,
+            "y": 0.17,
+            "width": 0.2,
+            "height": 0.4,
+            "caption": "《The Herd》· 作者作品",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "图书封面用于介绍作者作品；不推定其属于和解名单。",
+        "imageCredit": "Bartz: Frypie, CC BY-SA 4.0 · The Herd: 作者提供的媒体封面"
+      },
+      "narration": "如果你写文章、画画、出书，这一条尤其值得听。2024 年，作家 Andrea Bartz 等人起诉 Anthropic，争议涉及作品被用于训练。2026 年 7 月，法院最终批准了 15 亿美元的集体和解。",
+      "startFrame": 3751,
+      "endFrame": 4259
+    },
+    {
+      "id": "copyright-critique",
+      "nodeId": "copyright",
+      "durationFrames": 585,
+      "purpose": "以法院与公司公告为依据提出双重标准的评论，明确法律性质不同。",
+      "narration": "Anthropic 曾从盗版来源下载书籍；另一边，它又指控竞争者未经许可蒸馏 Claude。两件事的法律问题不同，但作为创作者，你完全可以问一句：拿别人的作品训练时一套说法，轮到别人碰自己的模型又一套说法，这是不是太会替自己讲道理了？",
+      "captions": [
+        {
+          "text": "Anthropic 曾从盗版来源下载书籍；",
+          "startFrame": 0,
+          "endFrame": 81
+        },
+        {
+          "text": "另一边，它又指控竞争者未经许可蒸馏 Claude。",
+          "startFrame": 93,
+          "endFrame": 208
+        },
+        {
+          "text": "两件事的法律问题不同，但作为创作者，",
+          "startFrame": 222,
+          "endFrame": 305
+        },
+        {
+          "text": "你完全可以问一句：拿别人的作品训练时一套说法，",
+          "startFrame": 310,
+          "endFrame": 418
+        },
+        {
+          "text": "轮到别人碰自己的模型又一套说法，",
+          "startFrame": 427,
+          "endFrame": 495
+        },
+        {
+          "text": "这是不是太会替自己讲道理了？",
+          "startFrame": 505,
+          "endFrame": 575
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "books",
+            "label": "盗版来源",
+            "detail": "下载书籍",
+            "position": [
+              0.3,
+              0.34
+            ],
+            "width": 0.35,
+            "height": 0.2
+          },
+          {
+            "id": "distillation",
+            "label": "模型蒸馏",
+            "detail": "公司提出指控",
+            "position": [
+              0.7,
+              0.34
+            ],
+            "width": 0.35,
+            "height": 0.2
+          }
+        ],
+        "legend": "法律性质不同；双重标准是本片评论。"
+      },
+      "startFrame": 4259,
+      "endFrame": 4844
+    },
+    {
+      "id": "section-05",
+      "nodeId": "customers",
+      "durationFrames": 89,
+      "purpose": "显示第 05 节标题。",
+      "captions": [
+        {
+          "text": "第 5 节：客户与政策执行。",
+          "startFrame": 0,
+          "endFrame": 73
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "05 / 客户与政策执行",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 5 节：客户与政策执行。",
+      "startFrame": 4844,
+      "endFrame": 4933
+    },
+    {
+      "id": "customers-retention",
+      "nodeId": "customers",
+      "durationFrames": 543,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "公司说，截至 2026 年 9 月底，净收入留存率约 900%。通俗说，符合它统计条件的老客户，后来贡献的收入变成了原来的九倍左右。注意，这不是说每个人的订阅都涨了九倍；固定价格的 Claude Pro 和 Max 不在这项统计里。",
+      "captions": [
+        {
+          "text": "公司说，截至 2026 年 9 月底，",
+          "startFrame": 0,
+          "endFrame": 81
+        },
+        {
+          "text": "净收入留存率约 900%。通俗说，",
+          "startFrame": 89,
+          "endFrame": 188
+        },
+        {
+          "text": "符合它统计条件的老客户，",
+          "startFrame": 199,
+          "endFrame": 257
+        },
+        {
+          "text": "后来贡献的收入变成了原来的九倍左右。注意，",
+          "startFrame": 265,
+          "endFrame": 371
+        },
+        {
+          "text": "这不是说每个人的订阅都涨了九倍；",
+          "startFrame": 374,
+          "endFrame": 434
+        },
+        {
+          "text": "固定价格的 Claude Pro 和 Max 不在这项统计里。",
+          "startFrame": 442,
+          "endFrame": 533
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "净收入留存率",
+            "detail": "约 900%",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "统计对象",
+            "detail": "合格客户",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "diagram-customers",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.49,
+            "height": 0.41,
+            "caption": "客户指标及口径",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "claude-mark",
+            "x": 0.54,
+            "y": 0.17,
+            "width": 0.095,
+            "height": 0.12,
+            "caption": "Claude 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "数据口径和排除项见招股书。"
+      },
+      "startFrame": 4933,
+      "endFrame": 5476
+    },
+    {
+      "id": "customers-policy",
+      "nodeId": "customers",
+      "durationFrames": 1128,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "公司估计，2026 年前九个月，约 5% 到 7% 的收入来自后来被认定违反政策或商业条款的客户。公司说，发现问题、调查到执行都需要时间，所以是在提供服务时确认收入，随后才限制或终止访问。再看普通用户的退款：Claude 官方规则是，除条款明确规定或法律要求的情况，付款原则上不退款。换成用户视角就是：服务可能被停，想拿回钱还得看你符不符合例外。安全的牌子挂得这么高，封号之后钱怎么算，总得给用户讲明白吧？",
+      "captions": [
+        {
+          "text": "公司估计，2026 年前九个月，",
+          "startFrame": 0,
+          "endFrame": 81
+        },
+        {
+          "text": "约 5% 到 7% 的收入来自后来被认定违反政策或商业条款的客户。公司说，",
+          "startFrame": 95,
+          "endFrame": 289
+        },
+        {
+          "text": "发现问题、调查到执行都需要时间，",
+          "startFrame": 298,
+          "endFrame": 387
+        },
+        {
+          "text": "所以是在提供服务时确认收入，",
+          "startFrame": 404,
+          "endFrame": 472
+        },
+        {
+          "text": "随后才限制或终止访问。再看普通用户的退款：",
+          "startFrame": 482,
+          "endFrame": 598
+        },
+        {
+          "text": "Claude 官方规则是，除条款明确规定或法律要求的情况，",
+          "startFrame": 611,
+          "endFrame": 731
+        },
+        {
+          "text": "付款原则上不退款。换成用户视角就是：",
+          "startFrame": 742,
+          "endFrame": 830
+        },
+        {
+          "text": "服务可能被停，想拿回钱还得看你符不符合例外。",
+          "startFrame": 840,
+          "endFrame": 951
+        },
+        {
+          "text": "安全的牌子挂得这么高，封号之后钱怎么算，",
+          "startFrame": 970,
+          "endFrame": 1060
+        },
+        {
+          "text": "总得给用户讲明白吧？",
+          "startFrame": 1071,
+          "endFrame": 1118
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "收入估计",
+            "detail": "约 5%—7%",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "执行",
+            "detail": "后续加强",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "diagram-customers",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "留存与政策执行指标",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "这是公司估计，收入与后续识别的时间不同。"
+      },
+      "startFrame": 5476,
+      "endFrame": 6604
+    },
+    {
+      "id": "section-06",
+      "nodeId": "compute",
+      "durationFrames": 82,
+      "purpose": "显示第 06 节标题。",
+      "captions": [
+        {
+          "text": "第 6 节：长期算力承诺。",
+          "startFrame": 0,
+          "endFrame": 71
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "06 / 长期算力承诺",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 6 节：长期算力承诺。",
+      "startFrame": 6604,
+      "endFrame": 6686
+    },
+    {
+      "id": "compute-overview",
+      "nodeId": "compute",
+      "durationFrames": 468,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "你每发一次消息，背后都要用算力。为了买这些资源，Anthropic 签下多年大合同。接下来有三种数字：最低要付多少、预计还会买多少、最多允许买多少。它们不是同一种账，不能直接加起来。",
+      "captions": [
+        {
+          "text": "你每发一次消息，背后都要用算力。",
+          "startFrame": 0,
+          "endFrame": 74
+        },
+        {
+          "text": "为了买这些资源，Anthropic 签下多年大合同。",
+          "startFrame": 105,
+          "endFrame": 200
+        },
+        {
+          "text": "接下来有三种数字：最低要付多少、预计还会买多少、最多允许买多少。",
+          "startFrame": 210,
+          "endFrame": 378
+        },
+        {
+          "text": "它们不是同一种账，不能直接加起来。",
+          "startFrame": 390,
+          "endFrame": 459
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "最低承诺",
+            "detail": "按合同条款",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "合同上限",
+            "detail": "有取消条件",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "illustration-compute",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "不同合同口径示意",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "各项合同覆盖不同年份，金额性质不同。"
+      },
+      "startFrame": 6686,
+      "endFrame": 7154
+    },
+    {
+      "id": "compute-google",
+      "nodeId": "compute",
+      "durationFrames": 668,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "先看 Google：2026 年 4 月到 2033 年 7 月，最低支出承诺约 1,145 亿美元。公司还预计从包括 Google 在内的供应商额外采购约 1,250 亿到 1,500 亿美元的 TPU 资源，具体取决于交付和合同。这是对未来算力的巨额安排，不是说钱已经全付出去了。",
+      "captions": [
+        {
+          "text": "先看 Google：2026 年 4 月到 2033 年 7 月，",
+          "startFrame": 0,
+          "endFrame": 108
+        },
+        {
+          "text": "最低支出承诺约 1,145 亿美元。",
+          "startFrame": 119,
+          "endFrame": 222
+        },
+        {
+          "text": "公司还预计从包括 Google 在内的供应商额外采购约 1,250 亿到 1,500 亿美元的 TPU 资源，",
+          "startFrame": 231,
+          "endFrame": 457
+        },
+        {
+          "text": "具体取决于交付和合同。这是对未来算力的巨额安排，",
+          "startFrame": 471,
+          "endFrame": 591
+        },
+        {
+          "text": "不是说钱已经全付出去了。",
+          "startFrame": 603,
+          "endFrame": 654
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "Google",
+            "detail": "最低约 1,145 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "额外 TPU",
+            "detail": "预计采购有条件",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "google-center",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.32,
+            "height": 0.41,
+            "caption": "Google 数据中心",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "google-mark",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.15,
+            "height": 0.21,
+            "caption": "Google 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "最低承诺与预计采购分开披露，不直接加总。"
+      },
+      "startFrame": 7154,
+      "endFrame": 7822
+    },
+    {
+      "id": "compute-amazon",
+      "nodeId": "compute",
+      "durationFrames": 446,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "Amazon 这边，2026 年 5 月到 2036 年 4 月，最低承诺 1,100 亿美元。相当于先给未来很多年的机器签下大订单。用户看到的是聊天窗口，公司背后押的是长期现金流。",
+      "captions": [
+        {
+          "text": "Amazon 这边，2026 年 5 月到 2036 年 4 月，",
+          "startFrame": 0,
+          "endFrame": 113
+        },
+        {
+          "text": "最低承诺 1,100 亿美元。",
+          "startFrame": 124,
+          "endFrame": 193
+        },
+        {
+          "text": "相当于先给未来很多年的机器签下大订单。",
+          "startFrame": 205,
+          "endFrame": 313
+        },
+        {
+          "text": "用户看到的是聊天窗口，公司背后押的是长期现金流。",
+          "startFrame": 321,
+          "endFrame": 436
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "Amazon",
+            "detail": "最低 1,100 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "amazon-office",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.32,
+            "height": 0.41,
+            "caption": "Amazon 总部园区",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "amazon-mark",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.15,
+            "height": 0.21,
+            "caption": "Amazon 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "图片为 Amazon 总部园区，不代表具体机房。"
+      },
+      "startFrame": 7822,
+      "endFrame": 8268
+    },
+    {
+      "id": "compute-microsoft",
+      "nodeId": "compute",
+      "durationFrames": 503,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "Microsoft 的最低承诺是 449 亿美元，期限从 2026 年 11 月到 2033 年 5 月。部分合同即使实际用得不够，仍可能需要付款，例外看合同条款。这就像订了长期套餐：用少了，也不一定能少付。",
+      "captions": [
+        {
+          "text": "Microsoft 的最低承诺是 449 亿美元，",
+          "startFrame": 0,
+          "endFrame": 86
+        },
+        {
+          "text": "期限从 2026 年 11 月到 2033 年 5 月。",
+          "startFrame": 97,
+          "endFrame": 199
+        },
+        {
+          "text": "部分合同即使实际用得不够，",
+          "startFrame": 212,
+          "endFrame": 276
+        },
+        {
+          "text": "仍可能需要付款，例外看合同条款。",
+          "startFrame": 284,
+          "endFrame": 365
+        },
+        {
+          "text": "这就像订了长期套餐：用少了，也不一定能少付。",
+          "startFrame": 378,
+          "endFrame": 495
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "Microsoft",
+            "detail": "最低 449 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "microsoft-office",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.32,
+            "height": 0.41,
+            "caption": "微软 Redmond 园区",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "microsoft-mark",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.15,
+            "height": 0.21,
+            "caption": "Microsoft 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "最低承诺及例外须按合同解释。"
+      },
+      "startFrame": 8268,
+      "endFrame": 8771
+    },
+    {
+      "id": "compute-spacex",
+      "nodeId": "compute",
+      "durationFrames": 626,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "SpaceX.AI 的多份合同上限合计 1,205 亿美元。全部交付后，每月合计约 31 亿美元；初始不可取消期结束后，双方可提前 90 天通知取消。注意这是上限，不是已经花掉的钱。数字够吓人，但骂也得骂对账。",
+      "captions": [
+        {
+          "text": "SpaceX.AI 的多份合同上限合计 1,205 亿美元。",
+          "startFrame": 0,
+          "endFrame": 144
+        },
+        {
+          "text": "全部交付后，每月合计约 31 亿美元；",
+          "startFrame": 163,
+          "endFrame": 264
+        },
+        {
+          "text": "初始不可取消期结束后，双方可提前 90 天通知取消。",
+          "startFrame": 286,
+          "endFrame": 414
+        },
+        {
+          "text": "注意这是上限，不是已经花掉的钱。数字够吓人，",
+          "startFrame": 427,
+          "endFrame": 556
+        },
+        {
+          "text": "但骂也得骂对账。",
+          "startFrame": 563,
+          "endFrame": 610
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "SpaceX.AI",
+            "detail": "上限 1,205 亿美元",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "取消",
+            "detail": "初始期后提前 90 天",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "spacex-office",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.32,
+            "height": 0.41,
+            "caption": "SpaceX 设施",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "spacex-mark",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.15,
+            "height": 0.21,
+            "caption": "SpaceX 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "SpaceX.AI 为 SpaceX 子公司；上限不等于已支付。"
+      },
+      "startFrame": 8771,
+      "endFrame": 9397
+    },
+    {
+      "id": "section-07",
+      "nodeId": "governance",
+      "durationFrames": 92,
+      "purpose": "显示第 07 节标题。",
+      "captions": [
+        {
+          "text": "第 7 节：创始人和投票权。",
+          "startFrame": 0,
+          "endFrame": 85
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "07 / 创始人和投票权",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 7 节：创始人和投票权。",
+      "startFrame": 9397,
+      "endFrame": 9489
+    },
+    {
+      "id": "control-vote",
+      "nodeId": "governance",
+      "durationFrames": 551,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "上市以后，谁说了算？七位创始人最初组成 Founder LLC，持有一股 F 类股份。这股没有经济权益，却对应一般股东表决事项 50.1% 的投票权。说白了，公众可以来买股份，关键投票权仍然集中在这套创始人安排里。",
+      "captions": [
+        {
+          "text": "上市以后，谁说了算？七位创始人最初组成 Founder LLC，",
+          "startFrame": 0,
+          "endFrame": 145
+        },
+        {
+          "text": "持有一股 F 类股份。这股没有经济权益，",
+          "startFrame": 155,
+          "endFrame": 251
+        },
+        {
+          "text": "却对应一般股东表决事项 50.1% 的投票权。说白了，",
+          "startFrame": 258,
+          "endFrame": 401
+        },
+        {
+          "text": "公众可以来买股份，关键投票权仍然集中在这套创始人安排里。",
+          "startFrame": 403,
+          "endFrame": 542
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "F 类股份",
+            "detail": "一般事项 50.1% 投票权",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "经济权益",
+            "detail": "无",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "dario-2023",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.22,
+            "height": 0.41,
+            "caption": "Dario · 2023",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "diagram-governance",
+            "x": 0.3,
+            "y": 0.17,
+            "width": 0.27,
+            "height": 0.41,
+            "caption": "股份及治理权示意",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "具体权利和条件以 S-1 为准。"
+      },
+      "startFrame": 9489,
+      "endFrame": 10040
+    },
+    {
+      "id": "control-trust",
+      "nodeId": "governance",
+      "durationFrames": 553,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "还有长期利益信托持有 T 类股份，通常有权选出董事会多数成员。可以把它想成三把不同的钥匙：分多少钱、股东怎么投票、谁来选董事，不一定在同一批人手里。对用户而言，这关系到公司讲的使命由谁监督、谁能改变方向。",
+      "captions": [
+        {
+          "text": "还有长期利益信托持有 T 类股份，",
+          "startFrame": 0,
+          "endFrame": 72
+        },
+        {
+          "text": "通常有权选出董事会多数成员。",
+          "startFrame": 82,
+          "endFrame": 153
+        },
+        {
+          "text": "可以把它想成三把不同的钥匙：",
+          "startFrame": 169,
+          "endFrame": 225
+        },
+        {
+          "text": "分多少钱、股东怎么投票、谁来选董事，",
+          "startFrame": 235,
+          "endFrame": 333
+        },
+        {
+          "text": "不一定在同一批人手里。对用户而言，",
+          "startFrame": 340,
+          "endFrame": 419
+        },
+        {
+          "text": "这关系到公司讲的使命由谁监督、谁能改变方向。",
+          "startFrame": 421,
+          "endFrame": 532
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "长期利益信托",
+            "detail": "通常选举董事会多数",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "投票与收益",
+            "detail": "按不同规则",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "diagram-governance",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "创始人与信托治理结构",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "图示为依据 S-1 制作的解释图。"
+      },
+      "startFrame": 10040,
+      "endFrame": 10593
+    },
+    {
+      "id": "section-08",
+      "nodeId": "benefit",
+      "durationFrames": 73,
+      "purpose": "显示第 08 节标题。",
+      "captions": [
+        {
+          "text": "第 8 节：公益基金。",
+          "startFrame": 0,
+          "endFrame": 58
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "08 / 公益基金",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 8 节：公益基金。",
+      "startFrame": 10593,
+      "endFrame": 10666
+    },
+    {
+      "id": "fund-stake",
+      "nodeId": "benefit",
+      "durationFrames": 665,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "Anthropic 设立全资公益基金，投入约占全面摊薄股本 5% 的股份。说简单点，是按把可能转换的股份也算进去后的总股数，拿出约 5%。公司还说股价每比基准涨 50%，董事会可以考虑追加最多 2%。听清楚，是可以考虑，不是自动捐。",
+      "captions": [
+        {
+          "text": "Anthropic 设立全资公益基金，",
+          "startFrame": 0,
+          "endFrame": 63
+        },
+        {
+          "text": "投入约占全面摊薄股本 5% 的股份。说简单点，",
+          "startFrame": 76,
+          "endFrame": 201
+        },
+        {
+          "text": "是按把可能转换的股份也算进去后的总股数，拿出约 5%。",
+          "startFrame": 211,
+          "endFrame": 368
+        },
+        {
+          "text": "公司还说股价每比基准涨 50%，",
+          "startFrame": 380,
+          "endFrame": 466
+        },
+        {
+          "text": "董事会可以考虑追加最多 2%。听清楚，是可以考虑，不是自动捐。",
+          "startFrame": 470,
+          "endFrame": 657
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "初始股份",
+            "detail": "约 5%",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "追加",
+            "detail": "董事会酌情",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "diagram-benefit",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.38,
+            "height": 0.41,
+            "caption": "公益基金安排",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "anthropic-mark",
+            "x": 0.45,
+            "y": 0.2,
+            "width": 0.13,
+            "height": 0.15,
+            "caption": "Anthropic 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "追加为董事会酌情决定；实际价值随估值变化。"
+      },
+      "startFrame": 10666,
+      "endFrame": 11331
+    },
+    {
+      "id": "fund-founders",
+      "nodeId": "benefit",
+      "durationFrames": 515,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "创始人还承诺捐出各自持股的 80%，员工也可参加股份捐赠配捐计划。承诺很醒目，普通人最该追问的也很简单：什么时候兑现，最终有多少真正用于公益？招牌可以先挂，账也得以后继续看。",
+      "captions": [
+        {
+          "text": "创始人还承诺捐出各自持股的 80%，",
+          "startFrame": 0,
+          "endFrame": 86
+        },
+        {
+          "text": "员工也可参加股份捐赠配捐计划。承诺很醒目，",
+          "startFrame": 93,
+          "endFrame": 220
+        },
+        {
+          "text": "普通人最该追问的也很简单：",
+          "startFrame": 234,
+          "endFrame": 285
+        },
+        {
+          "text": "什么时候兑现，最终有多少真正用于公益？",
+          "startFrame": 296,
+          "endFrame": 400
+        },
+        {
+          "text": "招牌可以先挂，账也得以后继续看。",
+          "startFrame": 407,
+          "endFrame": 502
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "创始人承诺",
+            "detail": "持股的 80%",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "员工",
+            "detail": "可参加配捐计划",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "dario-2023",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.22,
+            "height": 0.4,
+            "caption": "Dario · 2023",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "daniela-portrait",
+            "x": 0.3,
+            "y": 0.17,
+            "width": 0.22,
+            "height": 0.4,
+            "caption": "Daniela · 日期未公开",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "股份承诺不等同已用于公益的资金。"
+      },
+      "startFrame": 11331,
+      "endFrame": 11846
+    },
+    {
+      "id": "section-09",
+      "nodeId": "founding",
+      "durationFrames": 86,
+      "purpose": "显示第 09 节标题。",
+      "captions": [
+        {
+          "text": "第 9 节：公司的安全使命。",
+          "startFrame": 0,
+          "endFrame": 69
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "09 / 公司的安全使命",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 9 节：公司的安全使命。",
+      "startFrame": 11846,
+      "endFrame": 11932
+    },
+    {
+      "id": "mission-company",
+      "nodeId": "founding",
+      "durationFrames": 395,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "这家公司由一批曾在 OpenAI 工作的人于 2021 年创办。Dario Amodei 是首席执行官，Daniela Amodei 是总裁兼董事会主席。它强调 AI 安全，也以公益公司形式经营 Claude。",
+      "captions": [
+        {
+          "text": "这家公司由一批曾在 OpenAI 工作的人于 2021 年创办。",
+          "startFrame": 0,
+          "endFrame": 106
+        },
+        {
+          "text": "Dario Amodei 是首席执行官，",
+          "startFrame": 116,
+          "endFrame": 181
+        },
+        {
+          "text": "Daniela Amodei 是总裁兼董事会主席。",
+          "startFrame": 193,
+          "endFrame": 271
+        },
+        {
+          "text": "它强调 AI 安全，也以公益公司形式经营 Claude。",
+          "startFrame": 279,
+          "endFrame": 385
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "2021 年",
+            "detail": "公司成立",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "公开使命",
+            "detail": "安全地发展 AI",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "anthropic-building",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.32,
+            "height": 0.41,
+            "caption": "500 Howard Street · 早期照片",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "anthropic-mark",
+            "x": 0.4,
+            "y": 0.2,
+            "width": 0.15,
+            "height": 0.18,
+            "caption": "Anthropic 标识",
+            "focusZoom": 1
+          }
+        ],
+        "legend": "照片摄于 Anthropic 使用该办公楼之前。"
+      },
+      "startFrame": 11932,
+      "endFrame": 12327
+    },
+    {
+      "id": "mission-comment",
+      "nodeId": "founding",
+      "durationFrames": 504,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "公益公司不等于慈善机构，它照样是做生意的企业。作为用户，我们当然希望 AI 安全；但当安全说法碰上版权争议、客户违规收入和商业竞争，不能只看发布会上的漂亮话。讲安全讲得越响，越该接受别人拿实际做法来对照。",
+      "captions": [
+        {
+          "text": "公益公司不等于慈善机构，",
+          "startFrame": 0,
+          "endFrame": 52
+        },
+        {
+          "text": "它照样是做生意的企业。作为用户，",
+          "startFrame": 57,
+          "endFrame": 132
+        },
+        {
+          "text": "我们当然希望 AI 安全；",
+          "startFrame": 132,
+          "endFrame": 179
+        },
+        {
+          "text": "但当安全说法碰上版权争议、客户违规收入和商业竞争，",
+          "startFrame": 189,
+          "endFrame": 309
+        },
+        {
+          "text": "不能只看发布会上的漂亮话。",
+          "startFrame": 318,
+          "endFrame": 374
+        },
+        {
+          "text": "讲安全讲得越响，越该接受别人拿实际做法来对照。",
+          "startFrame": 379,
+          "endFrame": 497
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "公开使命",
+            "detail": "AI 安全",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "商业经营",
+            "detail": "收入、融资与成本",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "dario-2023",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.22,
+            "height": 0.4,
+            "caption": "Dario · 2023",
+            "focusZoom": 1.015
+          },
+          {
+            "mediaId": "daniela-portrait",
+            "x": 0.3,
+            "y": 0.17,
+            "width": 0.22,
+            "height": 0.4,
+            "caption": "Daniela · 日期未公开",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "这是对公司公开使命与商业行为的评论。"
+      },
+      "startFrame": 12327,
+      "endFrame": 12831
+    },
+    {
+      "id": "section-10",
+      "nodeId": "reading",
+      "durationFrames": 82,
+      "purpose": "显示第 10 节标题。",
+      "captions": [
+        {
+          "text": "第 10 节：增长与约束。",
+          "startFrame": 0,
+          "endFrame": 71
+        }
+      ],
+      "camera": [
+        {
+          "t": 0,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        },
+        {
+          "t": 3.5,
+          "x": 960,
+          "y": 400,
+          "z": 1.38
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "chapter",
+            "label": "10 / 增长与约束",
+            "detail": "A\\ 申请上市 · 10 个信息",
+            "position": [
+              0.5,
+              0.37
+            ],
+            "width": 0.6,
+            "height": 0.24
+          }
+        ],
+        "legend": "章节导览"
+      },
+      "narration": "第 10 节：增长与约束。",
+      "startFrame": 12831,
+      "endFrame": 12913
+    },
+    {
+      "id": "summary",
+      "nodeId": "reading",
+      "durationFrames": 700,
+      "purpose": "结合图片说明本节事实与评论。",
+      "narration": "这十条放在一起，就是一家生意增长飞快、算力订单巨大、控制权高度集中的 AI 公司。它说安全，也要融资、竞争、签大单。普通用户要看的不是口号够不够正义，而是作品怎么用、规则怎么执行、承诺有没有兑现。骂它虚伪可以，但把证据和口径弄清楚，骂起来才更有力。",
+      "captions": [
+        {
+          "text": "这十条放在一起，",
+          "startFrame": 0,
+          "endFrame": 36
+        },
+        {
+          "text": "就是一家生意增长飞快、算力订单巨大、控制权高度集中的 AI 公司。它说安全，",
+          "startFrame": 41,
+          "endFrame": 220
+        },
+        {
+          "text": "也要融资、竞争、签大单。",
+          "startFrame": 231,
+          "endFrame": 327
+        },
+        {
+          "text": "普通用户要看的不是口号够不够正义，",
+          "startFrame": 336,
+          "endFrame": 404
+        },
+        {
+          "text": "而是作品怎么用、规则怎么执行、承诺有没有兑现。",
+          "startFrame": 411,
+          "endFrame": 530
+        },
+        {
+          "text": "骂它虚伪可以，但把证据和口径弄清楚，",
+          "startFrame": 551,
+          "endFrame": 645
+        },
+        {
+          "text": "骂起来才更有力。",
+          "startFrame": 650,
+          "endFrame": 688
+        }
+      ],
+      "visual": {
+        "kind": "comparison",
+        "items": [
+          {
+            "id": "item-0",
+            "label": "增长与成本",
+            "detail": "结合口径阅读",
+            "position": [
+              0.79,
+              0.28
+            ],
+            "width": 0.27,
+            "height": 0.19
+          },
+          {
+            "id": "item-1",
+            "label": "使命与行为",
+            "detail": "结合实际判断",
+            "position": [
+              0.79,
+              0.52
+            ],
+            "width": 0.27,
+            "height": 0.19
+          }
+        ],
+        "images": [
+          {
+            "mediaId": "diagram-outlook",
+            "x": 0.05,
+            "y": 0.17,
+            "width": 0.5,
+            "height": 0.42,
+            "caption": "增长、算力、融资与治理",
+            "focusZoom": 1.015
+          }
+        ],
+        "legend": "上市条件与未来经营表现仍可能变化。"
+      },
+      "startFrame": 12913,
+      "endFrame": 13613
+    },
+    {
+      "id": "user-ending",
+      "nodeId": "reading",
+      "durationFrames": 236,
+      "purpose": "按照用户指定文案结束十节全片。",
+      "narration": "好了，10条都说完了，请一键三连加转发，方便大家一起骂A畜。当然你也可以在评论直接骂。",
+      "captions": [
+        {
+          "text": "好了，10条都说完了，请一键三连加转发，",
+          "startFrame": 0,
+          "endFrame": 97
+        },
+        {
+          "text": "方便大家一起骂A畜。当然你也可以在评论直接骂。",
+          "startFrame": 103,
+          "endFrame": 227
+        }
+      ],
+      "visual": {
+        "kind": "archive",
+        "items": [
+          {
+            "id": "ending",
+            "label": "一键三连加转发",
+            "detail": "评论区接着骂",
+            "position": [
+              0.5,
+              0.38
+            ],
+            "width": 0.58,
+            "height": 0.21
+          }
+        ],
+        "legend": "片尾"
+      },
+      "startFrame": 13613,
+      "endFrame": 13849
+    }
+  ]
+}

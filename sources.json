@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pdf",
+    "title": "用户提供的文章 PDF",
+    "status": "read",
+    "locator": "第 1—14 页",
+    "reviewScope": "已完整提取并阅读文字；作者对 S-1 的具体数字仍须与原始申报表逐项核对。"
+  },
+  {
+    "id": "announcement",
+    "title": "Anthropic：提交 S-1 公告",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "status": "read",
+    "locator": "2026-10-26，公告全文",
+    "reviewScope": "核实申请、拟议代码、股数和价格尚未确定。"
+  },
+  {
+    "id": "sec",
+    "title": "Anthropic：Form S-1 注册声明，SEC 原始文件",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "status": "read",
+    "locator": "2026-10-26；术语第 3 页、摘要及财务第 24—25 页、经营讨论第 132—175 页、治理第 242 页起",
+    "reviewScope": "已读取对应术语、季度及半年财务表、客户收入、基础设施合同、股权和治理章节；未声称全篇逐句审阅。原始 HTML SHA-256 b6836006abac03a7ab0244b79b968d9bcecde9f49ada9b79be78546d427f541e。"
+  },
+  {
+    "id": "apipo",
+    "title": "美联社：Anthropic 申请上市",
+    "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+    "status": "read",
+    "locator": "2026-10-26，财务与治理段落",
+    "reviewScope": "已读营收、净亏损、公允价值调整和投票权的报道；为独立二手报道。"
+  },
+  {
+    "id": "apbartz",
+    "title": "美联社：Bartz 案和解获批",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "status": "read",
+    "locator": "2026-07-21，正文",
+    "reviewScope": "已读和解金额、覆盖书籍和法院此前的区分；非判决书全文。"
+  },
+  {
+    "id": "fund",
+    "title": "Anthropic：Investing in the public benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "status": "read",
+    "locator": "2026-10-18，公告全文",
+    "reviewScope": "已读最初股份、股东批准条件、董事会裁量与创始人捐赠承诺；不等于已完成资金分配。"
+  },
+  {
+    "id": "leadership",
+    "title": "Anthropic：领导团队",
+    "url": "https://www.anthropic.com/company/leadership",
+    "status": "read",
+    "locator": "CEO and President 部分",
+    "reviewScope": "已读取 Dario 和 Daniela 的身份及职责；肖像复用许可未核实。"
+  }
+]
